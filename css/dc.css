@@ -193,8 +193,8 @@
 }
 
 .dc-chart g.row text {
-    fill: white;
-    font-size: 12px;
+    fill: black;
+	font-size: 12px;
     cursor: pointer;
 }
 

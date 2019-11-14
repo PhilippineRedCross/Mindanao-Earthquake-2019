@@ -1,103 +1,205 @@
 ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
-1;Philippine Red Cross;Welfare;Ready to Eat;Bread;1124;112401;Darapuan;Finished;43;packs
-2;Philippine Red Cross;Welfare;PSS;PSS;1124;112401;;Finished;170;individuals
-3;Philippine Red Cross;Welfare;PSS;PSS;1124;112401;Tubod;Finished;12;individuals
-4;Philippine Red Cross;Welfare;PSS;PSS;1124;112401;Anonang;Finished;71;individuals
-5;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112403;;Finished;68;individuals
-6;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112403;;Finished;20;individuals
-7;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;52;individuals
-8;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;204;individuals
-9;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112403;Aplaya;Finished;264;individuals
-10;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;280;individuals
-11;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112403;Dulangan;Finished;30;individuals
-12;Philippine Red Cross;Welfare;Ready to Eat;Bread;1124;112403;Balabag;Finished;60;packs
-13;Philippine Red Cross;Welfare;Ready to Eat;Bread;1124;112403;Cogon;Finished;55;packs
-14;Philippine Red Cross;Welfare;PSS;PSS;1124;112403;;Finished;20;individuals
-15;Philippine Red Cross;Welfare;PSS;PSS;1124;112403;Aplaya;Finished;10;individuals
-16;Philippine Red Cross;Welfare;PSS;PSS;1124;112403;Balabag;Finished;104;individuals
-17;Philippine Red Cross;Welfare;PSS;PSS;1124;112403;Dulungan;Finished;30;individuals
-18;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Balabag;Finished;280;individuals
-19;Philippine Red Cross;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;12,000 ;liters
-20;Philippine Red Cross;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;12,000 ;liters
-21;Philippine Red Cross;Welfare;PSS;PSS;1263;126303;;Finished;44;individuals
-22;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112404;Guihing;Finished;398;individuals
-23;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1247;124704;;Finished;53;individuals
-24;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1247;124704;;Finished;30;individuals
-25;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1247;124704;;Finished;83;individuals
-26;Philippine Red Cross;WASH;WASH;Water Bladder;1247;124704;;Finished;;individuals
-27;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;Finished;400;individuals
-28;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1247;124704;;Finished;320;individuals
-29;Philippine Red Cross;Welfare;PSS;PSS;1247;124704;;Finished;13;individuals
-30;Philippine Red Cross;Health;Safety;First Aid Station;1247;124704;;Finished;1;station
-31;Philippine Red Cross;Health;Safety;First Aid Station;1247;124704;;Finished;1;station
-32;Philippine Red Cross;Health;Safety;First Aid Station;1247;124704;;Finished;1;station
-33;Philippine Red Cross;Health;Safety;First Aid Station;1247;124704;;Finished;1;station
-34;Philippine Red Cross;Health;Safety;First Aid;1247;124704;Ilomavis;Finished;2;individuals
-35;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Hinalitan;Finished;10,000 ;liters
-36;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Ilamavis;Finished;10,000 ;liters
-37;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Hinalitan;Finished;10,000 ;liters
-38;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Ilamavis;Finished;10,000 ;liters
-39;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Ginatilan;Finished;10,000 ;liters
-40;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;7,000 ;liters
-41;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-42;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
-43;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-44;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
-45;Philippine Red Cross;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-46;Philippine Red Cross;SRR;Rescue;Rescued/Assisted;1263;126306;;Finished;1;individuals
-47;Philippine Red Cross;SRR;Rescue;Rescued/Assisted;1263;126306;;Finished;1;individuals
-48;Philippine Red Cross;Welfare;PSS;PSS;1263;126306;;Finished;22;individuals
-49;Philippine Red Cross;Health;Safety;First Aid;1263;126306;;Finished;12;individuals
-50;Philippine Red Cross;Health;Safety;First Aid;1263;126306;;Finished;1;individual
-51;Philippine Red Cross;Health;Safety;First Aid;1263;126306;;Finished;2;individuals
-52;Philippine Red Cross;Health;Safety;First Aid;1263;126306;;Finished;4;individuals
-53;Philippine Red Cross;Health;Safety;BP Consultation;1263;126306;;Finished;14;individuals
-54;Philippine Red Cross;Health;Safety;BP Consultation;1263;126306;;Finished;3;individuals
-55;Philippine Red Cross;Health;Safety;Ambulance Transport;1263;126306;;Finished;1;individual
-56;Philippine Red Cross;Health;Safety;Ambulance Transport;1263;126306;;Finished;1;individual
-57;Philippine Red Cross;WASH;WASH;Water Bladder;1124;112407;Balnate;Finished;;individuals
-58;Philippine Red Cross;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;208 ;liters
-59;Philippine Red Cross;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
-60;Philippine Red Cross;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;2,000 ;liters
-61;Philippine Red Cross;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
-62;Philippine Red Cross;SRR;Rescue;Rescued/Assisted;1124;112407;Asinan;Finished;1;individuals
-63;Philippine Red Cross;Welfare;PSS;PSS;1124;112407;Balnate;Finished;155;individuals
-64;Philippine Red Cross;Health;Safety;First Aid;1124;112407;Balnate;Finished;1;individual
-65;Philippine Red Cross;Health;Safety;Ambulance Transport;1124;112407;Balnate;Finished;1;individual
-66;Philippine Red Cross;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;24,000 ;liters
-67;Philippine Red Cross;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
-68;Philippine Red Cross;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;24,000 ;liters
-69;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;Finished;392;individuals
-70;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;Finished;196;individuals
-71;Philippine Red Cross;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;Finished;341;individuals
-72;Philippine Red Cross;Welfare;PSS;PSS;1247;124707;Old Bulatukan;Finished;126;individuals
-73;Philippine Red Cross;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;12,000 ;liters
-74;Philippine Red Cross;Health;Safety;First Aid Station;1247;124707;;Finished;1;station
-75;Philippine Red Cross;Health;Safety;First Aid Station;1247;124707;;Finished;1;station
-76;Philippine Red Cross;Health;Safety;BP Consultation;1247;124707;;Finished;10;individuals
-77;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1247;124707;Malasila;Finished;657;individuals
-78;Philippine Red Cross;Welfare;PSS;PSS;1247;124707;Malasila;Finished;132;individuals
-79;Philippine Red Cross;Welfare;PSS;PSS;1247;124707;Malasila;Finished;23;individuals
-80;Philippine Red Cross;Welfare;PSS;PSS;1247;124707;Old Bulatukan;Finished;96;individuals
-81;Philippine Red Cross;Health;Safety;First Aid;1247;124707;Kisante;Finished;3;individuals
-82;Philippine Red Cross;Health;Safety;BP Consultation;1247;124707;Kisante;Finished;135;individuals
-83;Philippine Red Cross;Welfare;PSS;PSS;1124;112408;;Finished;30;individuals
-84;Philippine Red Cross;Relief;Food Item;Food Items;1124;112410;Poblacion;Finished;129;falmilies
-85;Philippine Red Cross;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112410;Poblacion;Finished;129;falmilies
-86;Philippine Red Cross;Relief;Slepping Kit;SK:Mats;1124;112410;Poblacion;Finished;129;falmilies
-87;Philippine Red Cross;Relief;Slepping Kit;SK:Mosquito Nets;1124;112410;Poblacion;Finished;129;falmilies
-88;Philippine Red Cross;Relief;Slepping Kit;SK:Blankets;1124;112410;Poblacion;Finished;129;falmilies
-89;Philippine Red Cross;Relief;Non Food Item;Tent;1124;112410;Poblacion;Finished;129;falmilies
-90;Philippine Red Cross;Welfare;Ready to Eat;Hotmeals;1124;112410;Poblacion;Finished;580;individuals
-91;Philippine Red Cross;Health;Safety;BP Consultation;1247;124714;Daig;Finished;2;individuals
-92;Philippine Red Cross;Welfare;PSS;PSS;1263;124714;Daig;Finished;40;individuals
-93;Philippine Red Cross;Health;Safety;First Aid;1247;124714;;Finished;1;individual
-94;Philippine Red Cross;Health;Safety;BP Consultation;1247;124714;;Finished;5;individuals
-95;Philippine Red Cross;SRR;Rescue;Rescued/Assisted;1124;;;Finished;1;individuals
-96;Philippine Red Cross;Health;Safety;First Aid Station;1124;;;Finished;1;station
-97;Philippine Red Cross;Health;Safety;First Aid;1124;;;Finished;6;individuals
-98;Philippine Red Cross;Health;Safety;First Aid;1124;;;Finished;1;individual
-99;Philippine Red Cross;Health;Safety;Ambulance Transport;1124;;;Finished;1;individual
-100;Philippine Red Cross;Health;Safety;Ambulance Transport;1124;;;Finished;1;individual
-101;Philippine Red Cross;Health;Safety;First Aid;1247;;;Finished;48;individuals
-102;Philippine Red Cross;Health;Safety;First Aid Station;1263;;;Finished;1;station
+128;PRC;Health;Safety;Ambulance Transport;1263;126306;;finished;1;individual
+129;PRC;Health;Safety;Ambulance Transport;1263;126306;;finished;1;individual
+138;PRC;Health;Safety;Ambulance Transport;1124;112407;Balnate;finished;1;individual
+197;PRC;Health;Safety;Ambulance Transport;1124;;;finished;1;individual
+198;PRC;Health;Safety;Ambulance Transport;1124;;;finished;1;individual
+126;PRC;Health;Safety;BP Consultation;1263;126306;;finished;14;individuals
+127;PRC;Health;Safety;BP Consultation;1263;126306;;finished;3;individuals
+155;PRC;Health;Safety;BP Consultation;1247;124707;;finished;10;individuals
+162;PRC;Health;Safety;BP Consultation;1247;124707;Kisante;finished;75;individuals
+186;IFRC;Health;Safety;BP Consultation;1124;112410;Asinan;finished;39;individuals
+190;PRC;Health;Safety;BP Consultation;1247;124714;Daig;finished;2;individuals
+192;PRC;Health;Safety;BP Consultation;1247;124714;;finished;5;individuals
+201;IFRC;Health;Safety;BP Consultation;1124;;;finished;39;individuals
+1;PRC;Welfare;Ready to Eat;Bread;1124;112401;Darapuan;finished;43;individuals
+49;PRC;Welfare;Ready to Eat;Bread;1124;112403;Balabag;finished;60;individuals
+50;PRC;Welfare;Ready to Eat;Bread;1124;112403;Cogon;finished;55;individuals
+35;IFRC;Welfare;PSS;CFS;1124;112401;Darapuay;finished;31;individuals
+36;IFRC;Welfare;PSS;CFS;1124;112401;Anonang;finished;34;individuals
+63;IFRC;Welfare;PSS;CFS;1124;112404;Liling;finished;18;individuals
+159;PRC;Welfare;PSS;CFS;1247;124707;Malasila;finished;23;individuals
+160;PRC;Welfare;PSS;CFS;1247;124707;Old Bulatukan;finished;96;individuals
+173;IFRC;Welfare;PSS;CFS;1247;124707;Kisante;finished;80;individuals
+174;IFRC;Welfare;PSS;CFS;1247;124707;Old Bulatukan;finished;41;individuals
+175;IFRC;Welfare;PSS;CFS;1247;124707;Malasila;finished;60;individuals
+185;IFRC;Welfare;PSS;CFS;1124;112410;Asinan;finished;24;individuals
+78;PRC;Health;Safety;First Aid;1247;124704;Ilomavis;finished;2;individuals
+122;PRC;Health;Safety;First Aid;1263;126306;;finished;12;individuals
+123;PRC;Health;Safety;First Aid;1263;126306;;finished;1;individual
+124;PRC;Health;Safety;First Aid;1263;126306;;finished;2;individuals
+125;PRC;Health;Safety;First Aid;1263;126306;;finished;4;individuals
+137;PRC;Health;Safety;First Aid;1124;112407;Balnate;finished;1;individual
+161;PRC;Health;Safety;First Aid;1247;124707;Kisante;finished;3;individuals
+191;PRC;Health;Safety;First Aid;1247;124714;;finished;1;individual
+195;PRC;Health;Safety;First Aid;1124;;;finished;6;individuals
+196;PRC;Health;Safety;First Aid;1124;;;finished;1;individual
+202;PRC;Health;Safety;First Aid;1247;;;finished;48;individuals
+3;PRC;Health;Safety;First Aid Station;1124;112401;Darapuay ;finished;1;station
+39;IFRC;Health;Safety;First Aid Station;1124;112401;Anonang;finished;1;station
+74;PRC;Health;Safety;First Aid Station;1247;124704;;finished;1;station
+75;PRC;Health;Safety;First Aid Station;1247;124704;;finished;1;station
+76;PRC;Health;Safety;First Aid Station;1247;124704;;finished;1;station
+77;PRC;Health;Safety;First Aid Station;1247;124704;;finished;1;station
+98;IFRC;Health;Safety;First Aid Station;1247;124704;Ginatilan;finished;1;station
+99;IFRC;Health;Safety;First Aid Station;1247;124704;Bagomg Silang;finished;1;station
+153;PRC;Health;Safety;First Aid Station;1247;124707;;finished;1;station
+154;PRC;Health;Safety;First Aid Station;1247;124707;Malasila;finished;1;station
+187;IFRC;Health;Safety;First Aid Station;1124;112410;Asinan;finished;1;station
+203;PRC;Health;Safety;First Aid Station;1263;;;finished;1;station
+9;IFRC;Relief;Food Item;Food Items;1124;112401;Dolo;finished;107;families
+10;IFRC;Relief;Food Item;Food Items;1124;112401;Kinuskusan;finished;194;families
+11;IFRC;Relief;Food Item;Food Items;1124;112401;Tubod;finished;38;families
+32;IFRC;Relief;Food Item;Food Items;1124;112401;Darapuay;finished;199;families
+178;Private Donor: A.Locsin;Relief;Food Item;Food Items;1124;112410;Poblacion;finished;129;families
+40;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Anonang;finished;36;individuals
+42;PRC;Welfare;Ready to Eat;Hotmeals;1124;112403;;finished;68;individuals
+43;PRC;Welfare;Ready to Eat;Hotmeals;1124;112403;;finished;20;individuals
+44;PRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;finished;52;individuals
+45;PRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;finished;204;individuals
+46;PRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Aplaya;finished;264;individuals
+47;PRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;finished;280;individuals
+48;PRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Dulangan;finished;30;individuals
+62;PRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Guihing;finished;398;individuals
+65;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Sinayawan;finished;178;individuals
+67;PRC;Welfare;Ready to Eat;Hotmeals;1247;124704;;finished;53;individuals
+68;PRC;Welfare;Ready to Eat;Hotmeals;1247;124704;;finished;30;individuals
+69;PRC;Welfare;Ready to Eat;Hotmeals;1247;124704;;finished;83;individuals
+71;PRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;finished;400;individuals
+72;PRC;Welfare;Ready to Eat;Hotmeals;1247;124704;;finished;99;individuals
+83;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;finished;369;individuals
+84;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ilomavis;finished;481;individuals
+95;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;;finished;253;individuals
+97;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ginatilan;finished;197;individuals
+156;PRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Malasila;finished;657;individuals
+164;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Old Balatucan;finished;476;individuals
+170;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Kisante;finished;332;individuals
+184;PRC;Welfare;Ready to Eat;Hotmeals;1124;112410;Poblacion;finished;580;individuals
+12;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Dolo;finished;107;families
+13;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Kinuskusan;finished;194;families
+14;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Tubod;finished;38;families
+179;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112410;Poblacion;finished;129;families
+30;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Darapuay;finished;655;individuals
+31;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Kinuskusan;finished;1,235;individuals
+55;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Balabag;finished;280;individuals
+92;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;finished;252;individuals
+93;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Matingao;finished;80;individuals
+94;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;;finished;35;individuals
+103;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;finished;132;individuals
+118;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;finished;13;individuals
+144;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;finished;392;individuals
+145;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;finished;196;individuals
+146;PRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;finished;341;individuals
+33;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112401;Darapuay;finished;119;families
+2;PRC;Welfare;PSS;PFA;1124;112401;;finished;170;individuals
+4;PRC;Welfare;PSS;PFA;1124;112401;Tubod;finished;12;individuals
+5;PRC;Welfare;PSS;PFA;1124;112401;Anonang;finished;75;individuals
+8;IFRC;Welfare;PSS;PFA;1124;112401;Kinuskusan;finished;7;individuals
+34;IFRC;Welfare;PSS;PFA;1124;112401;Darapuay;finished;14;individuals
+41;IFRC;Welfare;PSS;PFA;1124;112401;Anonang;finished;1;individual
+51;PRC;Welfare;PSS;PFA;1124;112403;;finished;20;individuals
+52;PRC;Welfare;PSS;PFA;1124;112403;Aplaya;finished;10;individuals
+53;PRC;Welfare;PSS;PFA;1124;112403;Balabag;finished;104;individuals
+54;PRC;Welfare;PSS;PFA;1124;112403;Dulungan;finished;30;individuals
+61;PRC;Welfare;PSS;PFA;1263;126303;;finished;44;individuals
+64;IFRC;Welfare;PSS;PFA;1124;112404;Liling;finished;77;individuals
+66;IFRC;Welfare;PSS;PFA;1124;112404;Sinayawan;finished;178;individuals
+73;PRC;Welfare;PSS;PFA;1247;124704;;finished;13;individuals
+81;IFRC;Welfare;PSS;PFA;1247;124704;;finished;132;individuals
+82;IFRC;Welfare;PSS;PFA;1247;124704;;finished;135;individuals
+85;IFRC;Welfare;PSS;PFA;1247;124704;Mua-an;finished;25;individuals
+86;IFRC;Welfare;PSS;PFA;1247;124704;Perez;finished;13;individuals
+121;PRC;Welfare;PSS;PFA;1263;126306;;finished;22;individuals
+136;PRC;Welfare;PSS;PFA;1124;112407;Balnate;finished;155;individuals
+157;PRC;Welfare;PSS;PFA;1247;124707;Malasila;finished;132;individuals
+158;PRC;Welfare;PSS;PFA;1247;124707;Old Bulatukan;finished;126;individuals
+169;IFRC;Welfare;PSS;PFA;1247;124707;Malasila;finished;19;individuals
+171;IFRC;Welfare;PSS;PFA;1247;124707;Old Bulatukan;finished;4;individuals
+172;IFRC;Welfare;PSS;PFA;1247;124707;Kisante;finished;16;individuals
+177;PRC;Welfare;PSS;PFA;1124;112408;;finished;30;individuals
+188;IFRC;Welfare;PSS;PFA;1124;112410;Asinan;finished;65;individuals
+189;PRC;Welfare;PSS;PFA;1247;124714;Daig;finished;40;individuals
+57;PRC;WASH;WASH;Potable Water;1124;112403;Balabag;finished;12,000 ;liters
+58;PRC;WASH;WASH;Potable Water;1124;112403;Balabag;finished;12,000 ;liters
+59;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;finished;12,000 ;liters
+60;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;finished;5,000 ;liters
+87;IFRC;WASH;WASH;Potable Water;1247;124704;Matingao;finished;2,000;liters
+88;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;finished;10,000;liters
+89;IFRC;WASH;WASH;Potable Water;1247;124704;;finished;2,000;liters
+90;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;finished;22,000;liters
+91;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;finished;20,000;liters
+100;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;finished;10,000 ;liters
+101;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;finished;7,000 ;liters
+102;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;finished;20,000 ;liters
+104;PRC;WASH;WASH;Potable Water;1247;124704;Ginalitan;finished;10,000 ;liters
+105;PRC;WASH;WASH;Potable Water;1247;124704;Ilamavis;finished;10,000 ;liters
+106;PRC;WASH;WASH;Potable Water;1247;124704;Hinalitan;finished;10,000 ;liters
+107;PRC;WASH;WASH;Potable Water;1247;124704;Ilamavis;finished;10,000 ;liters
+108;PRC;WASH;WASH;Potable Water;1247;124704;Ginatilan;finished;10,000 ;liters
+109;PRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;finished;7,000 ;liters
+110;PRC;WASH;WASH;Potable Water;1247;124704;Poblacion;finished;12,000 ;liters
+111;PRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;finished;12,000 ;liters
+112;PRC;WASH;WASH;Potable Water;1247;124704;Poblacion;finished;12,000 ;liters
+113;PRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;finished;12,000 ;liters
+114;PRC;WASH;WASH;Potable Water;1247;124704;Poblacion;finished;10,000 ;liters
+115;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;finished;12,000 ;liters
+116;IFRC;WASH;WASH;Potable Water;1247;124704;Ginatilan;finished;12,000 ;liters
+117;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;finished;3,000 ;liters
+131;PRC;WASH;WASH;Potable Water;1124;112407;Balnate;finished;208 ;liters
+132;PRC;WASH;WASH;Potable Water;1124;112407;Balnate;finished;10,000 ;liters
+133;PRC;WASH;WASH;Potable Water;1124;112407;Balnate;finished;2,000 ;liters
+134;PRC;WASH;WASH;Potable Water;1124;112407;San Miguel;finished;15,000 ;liters
+139;PRC;WASH;WASH;Potable Water;1124;112407;Balnate;finished;24,000 ;liters
+140;PRC;WASH;WASH;Potable Water;1124;112407;San Miguel;finished;12,000 ;liters
+141;PRC;WASH;WASH;Potable Water;1124;112407;Balnate;finished;10,000 ;liters
+142;PRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;finished;10,000 ;liters
+143;PRC;WASH;WASH;Potable Water;1124;112407;Lowerr Bala;finished;10,000 ;liters
+147;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;finished;24,000 ;liters
+148;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;finished;22,000 ;liters
+149;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;finished;12,000 ;liters
+150;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala ;finished;12,000 ;liters
+151;IFRC;WASH;WASH;Potable Water;1124;112407;Tagaytay;finished;7,000 ;liters
+152;PRC;WASH;WASH;Potable Water;1247;124707;Malasila;finished;12,000 ;liters
+176;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;finished;10,000 ;liters
+200;IFRC;WASH;WASH;Potable Water;1124;;Mahayhay;finished;12,000 ;liters
+119;PRC;SRR;Rescue;Rescued/Assisted;1263;126306;;finished;1;individual
+120;PRC;SRR;Rescue;Rescued/Assisted;1263;126306;;finished;1;individual
+135;PRC;SRR;Rescue;Rescued/Assisted;1124;112407;Asinan;finished;1;individual
+194;PRC;SRR;Rescue;Rescued/Assisted;1124;;;finished;1;individual
+24;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Dolo;finished;107;families
+25;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Kinuskusan;finished;194;families
+26;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Tubod;finished;38;families
+167;IFRC;Relief;Non Food Item;SK:Blankets;1247;124707;Malasila;finished;393;families
+182;Private Donor: A.Locsin;Relief;Non Food Item;SK:Blankets;1124;112410;Poblacion;finished;129;families
+18;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Dolo;finished;107;families
+19;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Kinuskusan;finished;194;families
+20;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Tubod;finished;38;families
+165;IFRC;Relief;Non Food Item;SK:Mats;1247;124707;Malasila;finished;393;families
+180;Private Donor: A.Locsin;Relief;Non Food Item;SK:Mats;1124;112410;Poblacion;finished;129;families
+21;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Dolo;finished;107;families
+22;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Kinuskusan;finished;194;families
+23;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Tubod;finished;38;families
+166;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124707;Malasila;finished;393;families
+181;Private Donor: A.Locsin;Relief;Non Food Item;SK:Mosquito Nets;1124;112410;Poblacion;finished;129;families
+27;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Dolo;finished;107;families
+28;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Kinuskusan;finished;194;families
+29;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Tubod;finished;38;families
+168;IFRC;Relief;Non Food Item;Tarpaulins;1247;124707;Malasila;finished;393;families
+15;Private Donor: A.Locsin;Relief;Non Food Item;Tent;1124;112401;Dolo;finished;107;families
+16;Private Donor: A.Locsin;Relief;Non Food Item;Tent;1124;112401;Kinuskusan;finished;194;families
+17;Private Donor: A.Locsin;Relief;Non Food Item;Tent;1124;112401;Tubod;finished;38;families
+183;Private Donor: A.Locsin;Relief;Non Food Item;Tent;1124;112410;Poblacion;finished;129;families
+70;PRC;WASH;WASH;Water Bladder;1247;124704;;finished;2 ;unit
+130;PRC;WASH;WASH;Water Bladder;1124;112407;Balnate;finished;2 ;unit
+6;IFRC;Welfare;PSS;Welfare Desk;1124;112401;Darapuay;finished;1;desk
+7;IFRC;Welfare;PSS;Welfare Desk;1124;112401;Tubod ;finished;1;desk
+37;IFRC;Welfare;PSS;Welfare Desk;1124;112401;Anonang;finished;1;desk
+38;IFRC;Welfare;PSS;Welfare Desk;1124;112401;Upper Bala ;finished;1;desk
+56;PRC;Welfare;PSS;Welfare Desk;1124;112403;;finished;1;desk
+79;IFRC;Welfare;PSS;Welfare Desk;1247;124704;;finished;1;desk
+80;IFRC;Welfare;PSS;Welfare Desk;1247;124704;;finished;1;desk
+96;IFRC;Welfare;PSS;Welfare Desk;1247;124704;Ginatilan;finished;1;desk
+163;IFRC;Welfare;PSS;Welfare Desk;1247;124707;Malasila;finished;1;desk
+193;PRC;Welfare;PSS;Welfare Desk;1247;124714;;finished;1;desk
+199;IFRC;Welfare;PSS;Welfare Desk;1124;;;finished;1;desk
+204;IFRC;Welfare;PSS;Welfare Desk;1263;;;finished;1;desk
