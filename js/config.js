@@ -1,6 +1,6 @@
 // SET VARIABLES FOR THIS Dashboard
 
-var config_Title = 'Typhoon Tisoy Operation';
+var config_Title = 'Mindanao Earthquake 2019 Operation';
 var config_LastUpdate = '21 January 2020';
 
 var config_author = 'Elaine Manzon';
