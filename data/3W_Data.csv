@@ -1,612 +1,2735 @@
 ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
 1;IFRC;Health;Emergency Medical Unit;6x6 tent;1247;124704;Poblacion;Finished;2;units
 2;IFRC;Health;Emergency Medical Unit;6x9 tent;1247;124704;Poblacion;Finished;1;unit
-3;IFRC;Safety;Safety;Ambulance;1124;112403;;Finished;1;unit
-4;IFRC;Safety;Safety;Ambulance;1124;112403;;Finished;1;unit
-5;IFRC;Safety;Safety;Ambulance;1124;112403;;Finished;1;unit
-6;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
-7;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
-8;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
-9;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
+3;IFRC;Education;Temporary Learning Spaces;Alphinter tent;1124;112403;;Finished;3;units
+4;IFRC;Education;Temporary Learning Spaces;Alphinter tent;1247;124704;;Finished;2;units
+5;IFRC;Health;Emergency Medical Unit;Alphinter tent;1247;124704;Poblacion;Finished;2;units
+6;IFRC;Education;Temporary Learning Spaces;Alphinter tent;1124;112407;Bacungan ;Finished;3;units
+7;IFRC;Safety;Safety;Ambulance;1124;112403;;Finished;1;unit
+8;IFRC;Safety;Safety;Ambulance;1124;112403;;Finished;1;unit
+9;IFRC;Safety;Safety;Ambulance;1124;112403;;Finished;1;unit
 10;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
-11;IFRC;Safety;Safety;Ambulance Transport;1124;112401;Darapuay;Finished;1;individual
-12;IFRC;Safety;Safety;Ambulance Transport;1124;112404;;Finished;1;individual
-13;PRC;Safety;Safety;Ambulance Transport;1263;126306;;Finished;1;individual
-14;PRC;Safety;Safety;Ambulance Transport;1263;126306;;Finished;1;individual
-15;IFRC;Safety;Safety;Ambulance Transport;1124;112407;Balnate;Finished;1;individual
-16;IFRC;Safety;Safety;Ambulance Transport;1124;;;Finished;1;individual
-17;IFRC;Safety;Safety;Ambulance Transport;1124;;;Finished;1;individual
-18;Local Donation: SBMA;Relief;Food Item;Assorted food Items;1124;112407;New Opon;Finished;323;families
-19;IFRC;Safety;Safety;BP Consultation;1124;112401;Altavista;Finished;9;individuals
-20;PRC;Safety;Safety;BP Consultation;1124;112403;Dawis;Finished;4;individuals
-21;PRC;Safety;Safety;BP Consultation;1124;112403;Balabag;Finished;10;individuals
-22;IFRC;Safety;Safety;BP Consultation;1124;112404;Leling;Finished;10;individuals
-23;IFRC;Safety;Safety;BP Consultation;1124;112404;Sinayawan;Finished;29;individuals
-24;IFRC;Safety;Safety;BP Consultation;1247;124704;Ilomavis;Finished;64;individuals
-25;IFRC;Safety;Safety;BP Consultation;1247;124704;Perez;Finished;10;individuals
-26;IFRC;Safety;Safety;BP Consultation;1247;124704;Meohao;Finished;40;individuals
-27;PRC;Safety;Safety;BP Consultation;1263;126306;Marbel;Finished;14;individuals
-28;PRC;Safety;Safety;BP Consultation;1263;126306;;Finished;3;individuals
-29;IFRC;Safety;Safety;BP Consultation;1124;112407;Tacul ;Finished;65;individuals
-30;IFRC;Safety;Safety;BP Consultation;1124;112407;Tacul;Finished;30;individuals
-31;IFRC;Safety;Safety;BP Consultation;1124;112407;;Finished;32;individuals
-32;IFRC;Safety;Safety;BP Consultation;1124;112407;Tacul;Finished;10;individuals
-33;IFRC;Safety;Safety;BP Consultation;1124;112407;Tacul;Finished;16;individuals
-34;PRC;Safety;Safety;BP Consultation;1247;124707;Poblacion;Finished;10;individuals
-35;PRC;Safety;Safety;BP Consultation;1247;124707;Kisante;Finished;75;individuals
-36;IFRC;Safety;Safety;BP Consultation;1247;124707;Old Bulatukan;Finished;4;individuals
-37;IFRC;Safety;Safety;BP Consultation;1247;124707;Poblacion;Finished;10;individuals
-38;IFRC;Safety;Safety;BP Consultation;1247;124707;Concepcion;Finished;17;individuals
-39;IFRC;Safety;Safety;BP Consultation;1247;124707;Malabuan;Finished;13;individuals
-40;IFRC;Safety;Safety;BP Consultation;1247;124707;Bulakanon;Finished;27;individuals
-41;IFRC;Safety;Safety;BP Consultation;1124;112410;Asinan;Finished;39;individuals
-42;IFRC;Safety;Safety;BP Consultation;1124;112410;Kiba-o;Finished;28;individuals
-43;IFRC;Safety;Safety;BP Consultation;1124;112410;New Opon;Finished;26;individuals
-44;PRC;Safety;Safety;BP Consultation;1247;124714;Daig;Finished;2;individuals
-45;PRC;Safety;Safety;BP Consultation;1247;124714;;Finished;5;individuals
-46;IFRC;Welfare;Ready to Eat;Bread;1124;112401;Darapuay;Finished;43;individuals
-47;IFRC;Welfare;Ready to Eat;Bread;1124;112403;Balabag;Finished;60;individuals
-48;IFRC;Welfare;Ready to Eat;Bread;1124;112403;Cogon;Finished;55;individuals
-49;IFRC;Welfare;PSP;CFS;1124;112401;Darapuay;Finished;31;individuals
-50;IFRC;Welfare;PSP;CFS;1124;112401;Anonang;Finished;34;individuals
-51;IFRC;Welfare;PSP;CFS;1124;112401;Kinuskusan;Finished;30;individuals
-52;IFRC;Welfare;PSP;CFS;1124;112401;Darapuay;Finished;24;individuals
-53;IFRC;Welfare;PSP;CFS;1124;112401;Kinuskusan;Finished;34;individuals
-54;IFRC;Welfare;PSP;CFS;1124;112401;Altavista;Finished;84;individuals
-55;IFRC;Welfare;PSP;CFS;1124;112403;Dawis;Finished;172;individuals
-56;IFRC;Welfare;PSP;CFS;1124;112403;Balabag;Finished;136;individuals
-57;IFRC;Welfare;PSP;CFS;1124;112404;Liling;Finished;18;individuals
-58;IFRC;Welfare;PSP;CFS;1124;112404;Leling;Finished;19;individuals
-59;IFRC;Welfare;PSP;CFS;1124;112404;Sinayawan;Finished;64;individuals
-60;IFRC;Welfare;PSP;CFS;1247;124704;Perez;Finished;32;individuals
-61;IFRC;Welfare;PSP;CFS;1247;124704;Meohao;Finished;18;individuals
-62;IFRC;Welfare;PSP;CFS;1247;124704;Ilomavis;Finished;161;individuals
-63;IFRC;Welfare;PSP;CFS;1247;124704;Balabag;Finished;126;individuals
-64;IFRC;Welfare;PSP;CFS;1247;124704;Ilomavis;Finished;127;individuals
-65;IFRC;Welfare;PSP;CFS;1124;112407;Bacungan;Finished;44;individuals
-66;IFRC;Welfare;PSP;CFS;1124;112407;New Opon;Finished;51;individuals
-67;IFRC;Welfare;PSP;CFS;1124;112407;Tacul ;Finished;38;individuals
-68;IFRC;Welfare;PSP;CFS;1124;112407;;Finished;72;individuals
-69;IFRC;Welfare;PSP;CFS;1124;112407;;Finished;157;individuals
-70;IFRC;Welfare;PSP;CFS;1124;112407;Tacul;Finished;84;individuals
-71;IFRC;Welfare;PSP;CFS;1247;124707;Malasila;Finished;96;individuals
-72;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;23;individuals
-73;IFRC;Welfare;PSP;CFS;1247;124707;Malasila;Finished;60;individuals
-74;IFRC;Welfare;PSP;CFS;1247;124707;Kisante;Finished;80;individuals
-75;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;41;individuals
-76;IFRC;Welfare;PSP;CFS;1247;124707;Malasila;Finished;107;individuals
-77;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;56;individuals
-78;IFRC;Welfare;PSP;CFS;1247;124707;Concepcion;Finished;57;individuals
-79;IFRC;Welfare;PSP;CFS;1247;124707;Malabuan;Finished;32;individuals
-80;IFRC;Welfare;PSP;CFS;1247;124707;Bulakanon;Finished;39;individuals
-81;IFRC;Welfare;PSP;CFS;1247;124707;Sto. Nino;Finished;78;individuals
-82;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;35;individuals
-83;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;64;individuals
-84;IFRC;Welfare;PSP;CFS;1247;124707;Lapan;Finished;65;individuals
-85;IFRC;Welfare;PSP;CFS;1247;124707;;Finished;79;individuals
-86;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;33;individuals
-87;IFRC;Welfare;PSP;CFS;1124;112410;Asinan;Finished;24;individuals
-88;IFRC;Welfare;PSP;CFS;1124;112410;Asinan;Finished;69;individuals
-89;IFRC;Welfare;PSP;CFS;1124;112410;Dongan-Pekong;Finished;121;individuals
-90;IFRC;Welfare;PSP;CFS;1124;112410;Kiba-o;Finished;65;individuals
-91;IFRC;Education;Temporary Learning Spaces;Collapsible Tent;1124;112403;;Finished;3;units
-92;IFRC;Education;Temporary Learning Spaces;Collapsible Tent;1247;124704;;Finished;2;units
-93;Local Donor: Smart Telecomms;Welfare;RFL;Comms:Basic Phone;1247;124704;Poblacion;Finished;1;unit
-94;Local Donor: Smart Telecomms;Welfare;RFL;Comms:Basic Phone;1124;;;Finished;1;unit
-95;Local Donor: Smart Telecomms;Welfare;RFL;Comms:Satellite phone;1247;124704;Poblacion;Finished;1;unit
-96;Local Donor: Smart Telecomms;Welfare;RFL;Comms:Satellite phone;1124;;;Finished;1;unit
-97;PRC;Safety;Safety;First Aid;1247;124704;Ilomavis;Finished;2;individuals
-98;PRC;Safety;Safety;First Aid;1263;126306;;Finished;12;individuals
-99;PRC;Safety;Safety;First Aid;1263;126306;;Finished;1;individual
-100;PRC;Safety;Safety;First Aid;1263;126306;;Finished;2;individuals
-101;PRC;Safety;Safety;First Aid;1263;126306;;Finished;4;individuals
-102;IFRC;Safety;Safety;First Aid;1124;112407;Balnate;Finished;1;individual
-103;IFRC;Safety;Safety;First Aid;1124;112407;Tacul ;Finished;3;individuals
-104;IFRC;Safety;Safety;First Aid;1124;112407;Tacul;Finished;2;individuals
-105;IFRC;Safety;Safety;First Aid;1124;112407;San Miguel;Finished;1;individual
-106;PRC;Safety;Safety;First Aid;1247;124707;Kisante;Finished;3;individuals
-107;IFRC;Safety;Safety;First Aid;1124;112410;New Opon;Finished;3;individuals
-108;PRC;Safety;Safety;First Aid;1247;124714;;Finished;1;individual
-109;IFRC;Safety;Safety;First Aid;1124;;;Finished;6;individuals
-110;IFRC;Safety;Safety;First Aid;1124;;;Finished;1;individual
-111;PRC;Safety;Safety;First Aid;1247;;;Finished;48;individuals
-112;IFRC;Safety;Safety;First Aid Station;1124;112401;Darapuay;Finished;1;station
-113;IFRC;Safety;Safety;First Aid Station;1124;112401;Anonang;Finished;1;station
-114;IFRC;Safety;Safety;First Aid Station;1124;112403;Dawis;Finished;1;station
-115;IFRC;Safety;Safety;First Aid Station;1124;112403;Balabag;Finished;1;station
-116;PRC;Safety;Safety;First Aid Station;1247;124704;Poblacion;Finished;1;station
-117;PRC;Safety;Safety;First Aid Station;1247;124704;Poblacion;Finished;1;station
-118;PRC;Safety;Safety;First Aid Station;1247;124704;Poblacion;Finished;1;station
-119;PRC;Safety;Safety;First Aid Station;1247;124704;Poblacion;Finished;1;station
-120;IFRC;Safety;Safety;First Aid Station;1247;124704;Ginatilan;Finished;1;station
-121;IFRC;Safety;Safety;First Aid Station;1247;124704;Bagong Silang;Finished;1;station
-122;PRC;Safety;Safety;First Aid Station;1247;124707;Poblacion;Finished;1;station
-123;PRC;Safety;Safety;First Aid Station;1247;124707;Malasila;Finished;1;station
-124;IFRC;Safety;Safety;First Aid Station;1124;112410;Asinan;Finished;1;station
-125;PRC;Safety;Safety;First Aid Station;1263;;;Finished;1;station
-126;PRC;Relief;Food Item;food Items;1124;112401;Dolo;Finished;107;families
-127;PRC;Relief;Food Item;food Items;1124;112401;Kinuskusan;Finished;194;families
-128;PRC;Relief;Food Item;food Items;1124;112401;Tubod;Finished;38;families
-129;PRC;Relief;Food Item;Food Items;1124;112401;Darapuay;Finished;199;families
-130;PRC;Relief;Food Item;food Items;1124;112401;Altavista;Finished;241;families
-131;PRC;Relief;Food Item;food Items;1247;124704;Perez;Finished;204;families
-132;PRC;Relief;Food Item;Food Items;1247;124704;Bulacanon;Finished;304;families
-133;IFRC;Relief;Food Item;Food Items;1247;124704;Ilomavis;Finished;384;families
-134;PRC;Relief;Food Item;Food Items;1124;112407;Tacul;Finished;160;families
-135;PRC;Relief;Food Item;Food Items;1124;112407;Malungo;Finished;179;families
-136;PRC;Relief;Food Item;Food Items;1247;124707;Old Bulatukan;Finished;294;families
-137;Private Donor: A.Locsin;Relief;Food Item;Food Items;1247;124707;Malasila;Finished;162;families
-138;Private Donation;Relief;Food Item;Food Items;1247;124707;Quibod;Finished;22;families
-139;Private Donation;Relief;Food Item;Food Items;1247;124707;Quibod;Finished;21;families
-140;Private Donor: A.Locsin;Relief;Food Item;Food Items;1124;112410;Poblacion;Finished;129;families
-141;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Anonang;Finished;36;individuals
-142;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Kinuskusan;Finished;34;individuals
-143;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Altavista;Finished;227;individuals
-144;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Darapuay;Finished;200;individuals
-145;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;;Finished;68;individuals
-146;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;;Finished;20;individuals
-147;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;52;individuals
-148;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;204;individuals
-149;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Aplaya;Finished;264;individuals
-150;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;280;individuals
-151;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Dulangan;Finished;30;individuals
-152;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Guihing;Finished;398;individuals
-153;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Sinayawan;Finished;178;individuals
-154;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Sinayawan;Finished;74;individuals
-155;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Leling;Finished;19;individuals
-156;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;53;individuals
-157;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;30;individuals
-158;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;;Finished;83;individuals
-159;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;Finished;400;individuals
-160;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;99;individuals
-161;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;132;individuals
-162;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;135;individuals
-163;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;Finished;369;individuals
-164;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ilomavis;Finished;481;individuals
-165;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ilomavis;Finished;253;individuals
-166;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ginatilan;Finished;197;individuals
-167;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Meohao;Finished;370;individuals
-168;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ilomavis;Finished;450;individuals
-169;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;Finished;300;individuals
-170;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Lapan;Finished;356;individuals
-171;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112407;New Opon;Finished;51;individuals
-172;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112407;San Miguel;Finished;150;individuals
-173;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112407;Tacul;Finished;900;individuals
-174;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Malasila;Finished;657;individuals
-175;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Old Bulatukan;Finished;476;individuals
-176;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Kisante;Finished;332;individuals
-177;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Old Bulatukan;Finished;425;individuals
-178;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Poblacion;Finished;350;individuals
-179;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Concepcion;Finished;596;individuals
-180;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Concepcion;Finished;596;individuals
-181;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Malabuan;Finished;826;individuals
-182;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Bulakanon;Finished;556;individuals
-183;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Indingan;Finished;500;individuals
-184;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Sto. Nino;Finished;400;individuals
-185;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Malasila;Finished;280;individuals
-186;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112410;Poblacion;Finished;580;individuals
-187;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112410;Kiba-o;Finished;65;individuals
-188;IFRC;Relief;Non Food Item;Hygiene Kits ;1247;124704;Ilomavis;Finished;384;families
-189;IFRC;Relief;Non Food Item;Hygiene Kits ;1124;112407;Tacul;Finished;160;families
-190;IFRC;Relief;Non Food Item;Hygiene Kits ;1124;112407;Malungo;Finished;179;families
-191;IFRC;Relief;Non Food Item;Hygiene Kits ;1247;124707;Old Bulatukan;Finished;294;families
-192;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits ;1247;124707;Sto. Nino;Finished;150;families
-193;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Dolo;Finished;107;families
-194;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Kinuskusan;Finished;194;families
-195;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Tubod;Finished;38;families
-196;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112410;Poblacion;Finished;129;families
-197;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Darapuay;Finished;655;individuals
-198;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Kinuskusan;Finished;1,235;individuals
-199;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Darapuay;Finished;45;individuals
-200;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Altavista;Finished;149;individuals
-201;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Darapuay;Finished;180;individuals
-202;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Balabag;Finished;280;individuals
-203;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Sinawilan;Finished;16;individuals
-204;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Goma;Finished;7;individuals
-205;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;13;individuals
-206;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Matingao;Finished;80;individuals
-207;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Ilomavis;Finished;35;individuals
-208;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;252;individuals
-209;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;132;individuals
-210;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;162;individuals
-211;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;872;individuals
-212;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;577;individuals
-213;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Perez;Finished;18;individuals
-214;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;29;individuals
-215;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Lapan;Finished;77;individuals
-216;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;Finished;392;individuals
-217;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;Finished;196;individuals
-218;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;Finished;341;individuals
-219;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Bacungan;Finished;37;individuals
-220;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;91;individuals
-221;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;62;individuals
-222;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;;Finished;180;individuals
-223;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;;Finished;140;individuals
-224;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;16;individuals
-225;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;10;individuals
-226;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;Finished;66;individuals
-227;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;Finished;102;individuals
-228;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;Finished;72;individuals
-229;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;Finished;150;individuals
-230;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;84;individuals
-231;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;112407;Tacul;Finished;48;individuals
-232;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Concepcion;Finished;601;individuals
-233;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Malasila;Finished;13;individuals
-234;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Sto. Nino;Finished;80;individuals
-235;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Malasila;Finished;44;individuals
-236;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Malasila;Finished;160;individuals
-237;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112410;Dongan-Pekong;Finished;86;individuals
-238;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112410;Kiba-o;Finished;115;individuals
-239;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112410;New Opon;Finished;114;individuals
-240;IFRC;Education;Temporary Learning Spaces;Inflatable Tent;1124;112403;;Finished;2;units
-241;IFRC;Education;Temporary Learning Spaces;Inflatable Tent;1247;124704;;Finished;3;units
-242;IFRC;Education;Temporary Learning Spaces;Inflatable Tent;1247;124704;;Finished;2;units
-243;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112401;Darapuay;Finished;119;families
-244;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112407;Tacul;Finished;160;families
-245;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112407;Malungo;Finished;179;families
-246;IFRC;Relief;Non Food Item;Jerry Cans (10L);1247;124707;Old Bulatukan;Finished;294;families
-247;IFRC;Relief;Non Food Item;Jerry Cans (10L);1247;124707;Sto. Nino;Finished;150;families
-248;Local Donation: SBMA;Relief;Non Food Item;Jerry Cans (20L);1124;112407;New Opon;Finished;323;families
-249;Private Donor;Relief;Non Food Item;Jerry Cans (20L);1124;112407;Tacul;Finished;49;families
-250;Private Donor;Relief;Non Food Item;Jerry Cans (20L);1124;112407;Tacul;Finished;18;families
-251;Private Donor;Relief;Non Food Item;Jerry Cans (20L);1124;112407;Tacul;Finished;23;families
-252;Private Donor;Relief;Non Food Item;Jerry Cans (20L);1124;112407;Tacul;Finished;14;families
-253;IFRC;WASH;WASH;LMS;1124;112403;;Finished;1;unit
-254;IFRC;WASH;WASH;LMS;1247;124704;;Finished;1;unit
-255;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;10;individuals
-256;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;6;individuals
-257;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;;Finished;28;individuals
-258;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;;Finished;6;individuals
-259;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;11;individuals
-260;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;18;individuals
-261;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;10;individuals
-262;IFRC;Welfare;PSP;PFA;1124;112401;;Finished;170;individuals
-263;IFRC;Welfare;PSP;PFA;1124;112401;Anonang;Finished;75;individuals
-264;IFRC;Welfare;PSP;PFA;1124;112401;Kinuskusan;Finished;7;individuals
-265;IFRC;Welfare;PSP;PFA;1124;112401;Tubod;Finished;12;individuals
-266;IFRC;Welfare;PSP;PFA;1124;112401;Darapuay;Finished;14;individuals
-267;IFRC;Welfare;PSP;PFA;1124;112401;Anonang;Finished;1;individual
-268;IFRC;Welfare;PSP;PFA;1124;112401;Marber;Finished;58;individuals
-269;IFRC;Welfare;PSP;PFA;1124;112401;Altavista;Finished;84;individuals
-270;IFRC;Welfare;PSP;PFA;1124;112403;;Finished;20;individuals
-271;IFRC;Welfare;PSP;PFA;1124;112403;Aplaya;Finished;10;individuals
-272;IFRC;Welfare;PSP;PFA;1124;112403;Balabag;Finished;104;individuals
-273;IFRC;Welfare;PSP;PFA;1124;112403;Dulangan;Finished;30;individuals
-274;IFRC;Welfare;PSP;PFA;1124;112403;Dawis;Finished;62;individuals
-275;IFRC;Welfare;PSP;PFA;1124;112403;Balabag;Finished;37;individuals
-276;IFRC;Welfare;PSP;PFA;1263;126303;;Finished;44;individuals
-277;IFRC;Welfare;PSP;PFA;1124;112404;Leling;Finished;77;individuals
-278;IFRC;Welfare;PSP;PFA;1124;112404;Sinayawan;Finished;178;individuals
-279;IFRC;Welfare;PSP;PFA;1124;112404;Sinayawan;Finished;10;individuals
-280;IFRC;Welfare;PSP;PFA;1247;124704;Amas;Finished;13;individuals
-281;IFRC;Welfare;PSP;PFA;1247;124704;Mua-an;Finished;25;individuals
-282;IFRC;Welfare;PSP;PFA;1247;124704;Perez;Finished;13;individuals
-283;IFRC;Welfare;PSP;PFA;1247;124704;Perez;Finished;76;individuals
-284;IFRC;Welfare;PSP;PFA;1247;124704;Meohao;Finished;24;individuals
-285;IFRC;Welfare;PSP;PFA;1247;124704;Ilomavis;Finished;21;individuals
-286;IFRC;Welfare;PSP;PFA;1247;124704;Balabag;Finished;17;individuals
-287;IFRC;Welfare;PSP;PFA;1247;124704;Ilomavis;Finished;24;individuals
-288;IFRC;Welfare;PSP;PFA;1263;126306;;Finished;22;individuals
-289;IFRC;Welfare;PSP;PFA;1124;112407;Balnate;Finished;155;individuals
-290;IFRC;Welfare;PSP;PFA;1124;112407;Tacul ;Finished;19;individuals
-291;IFRC;Welfare;PSP;PFA;1124;112407;;Finished;84;individuals
-292;IFRC;Welfare;PSP;PFA;1124;112407;;Finished;91;individuals
-293;IFRC;Welfare;PSP;PFA;1247;124707;Malasila;Finished;132;individuals
-294;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;126;individuals
-295;IFRC;Welfare;PSP;PFA;1247;124707;Malasila;Finished;19;individuals
-296;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;4;individuals
-297;IFRC;Welfare;PSP;PFA;1247;124707;Kisante;Finished;16;individuals
-298;IFRC;Welfare;PSP;PFA;1247;124707;Malasila;Finished;12;individuals
-299;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;57;individuals
-300;IFRC;Welfare;PSP;PFA;1247;124707;Poblacion;Finished;15;individuals
-301;IFRC;Welfare;PSP;PFA;1247;124707;New Cebu;Finished;19;individuals
-302;IFRC;Welfare;PSP;PFA;1247;124707;Concepcion;Finished;284;individuals
-303;IFRC;Welfare;PSP;PFA;1247;124707;Malabuan;Finished;59;individuals
-304;IFRC;Welfare;PSP;PFA;1247;124707;Bulakanon;Finished;55;individuals
-305;IFRC;Welfare;PSP;PFA;1247;124707;Sto. Nino;Finished;32;individuals
-306;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;24;individuals
-307;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;28;individuals
-308;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;45;individuals
-309;IFRC;Welfare;PSP;PFA;1247;124707;Lapan;Finished;34;individuals
-310;IFRC;Welfare;PSP;PFA;1247;124707;;Finished;30;individuals
-311;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;5;individuals
-312;IFRC;Welfare;PSP;PFA;1124;112408;Poblacion;Finished;30;individuals
-313;IFRC;Welfare;PSP;PFA;1124;112410;Asinan;Finished;65;individuals
-314;IFRC;Welfare;PSP;PFA;1265;124714;Daig;Finished;40;individuals
-315;IFRC;WASH;Sanitation;Portalet;1124;112401;Darapuay;Finished;2 ;units
-316;IFRC;WASH;Sanitation;Portalet;1124;112403;;Finished;4 ;units
-317;IFRC;WASH;Sanitation;Portalet;1124;112403;Dawis;Finished;12 ;units
-318;IFRC;WASH;Sanitation;Portalet;1124;112403;Balabag;Finished;5 ;units
-319;IFRC;WASH;Sanitation;Portalet;1247;124704;;Finished;2 ;units
-320;IFRC;WASH;Sanitation;Portalet;1247;124704;Concepcion;Finished;2 ;units
-321;IFRC;WASH;Sanitation;Portalet;1124;112407;Balnate;Finished;2 ;units
-322;IFRC;WASH;Sanitation;Portalet;1124;112407;Upper Bala;Finished;4 ;units
-323;IFRC;WASH;Sanitation;Portalet;1124;112407;Upper Bala;Finished;2 ;units
-324;IFRC;WASH;Sanitation;Portalet;1124;112407;Upper Bala;Finished;2 ;units
-325;IFRC;WASH;Sanitation;Portalet;1247;124707;;Finished;4 ;units
-326;IFRC;WASH;Sanitation;Portalet;1247;124707;Malabuan;Finished;2 ;units
-327;IFRC;WASH;Sanitation;Portalet;1247;124707;Poblacion;Finished;2 ;units
-328;IFRC;WASH;Sanitation;Portalet;1247;124707;Old Bulatukan;Finished;2 ;units
-329;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;12,000 ;liters
-330;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;12,000 ;liters
-331;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;12,000 ;liters
-332;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;12,000 ;liters
-333;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;5,000 ;liters
-334;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;15,000 ;liters
-335;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;15,000 ;liters
-336;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;15,000 ;liters
-337;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;15,000 ;liters
-338;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;6,000 ;liters
-339;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;5,000 ;liters
-340;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;5,000 ;liters
-341;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;5,000 ;liters
-342;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;5,000 ;liters
-343;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;5,000 ;liters
-344;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;5,000 ;liters
-345;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;5,000 ;liters
-346;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;5,000 ;liters
-347;IFRC;WASH;WASH;Potable Water;1247;124704;Ginatilan;Finished;10,000 ;liters
-348;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-349;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-350;IFRC;WASH;WASH;Potable Water;1247;124704;Ginatilan;Finished;10,000 ;liters
-351;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;7,000 ;liters
-352;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-353;IFRC;WASH;WASH;Potable Water;1247;124704;Ginatilan;Finished;10,000 ;liters
-354;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
-355;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-356;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
-357;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-358;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000;liters
-359;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-360;IFRC;WASH;WASH;Potable Water;1247;124704;Singaw;Finished;12,000 ;liters
-361;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000;liters
-362;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-363;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;15,000;liters
-364;IFRC;WASH;WASH;Potable Water;1247;124704;Matingao;Finished;2,000;liters
-365;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;2,000;liters
-366;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;22,000;liters
-367;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000;liters
-368;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-369;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;7,000 ;liters
-370;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
-371;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-372;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-373;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-374;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
-375;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-376;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
-377;IFRC;WASH;WASH;Potable Water;1247;124704;Apo Sandawa I;Finished;10,000 ;liters
-378;IFRC;WASH;WASH;Potable Water;1247;124704;Apo Sandawa III;Finished;10,000 ;liters
-379;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-380;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-381;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-382;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-383;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-384;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-385;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-386;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-387;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-388;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-389;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
-390;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-391;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;24,000 ;liters
-392;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-393;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-394;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-395;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;24,000 ;liters
-396;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-397;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-398;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;2,000 ;liters
-399;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;2,000 ;liters
-400;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-401;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-402;IFRC;WASH;WASH;Potable Water;1247;124704;Malindog;Finished;12,000 ;liters
-403;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;16,000 ;liters
-404;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-405;IFRC;WASH;WASH;Potable Water;1247;124704;Apo Sandawa ;Finished;8,000 ;liters
-406;IFRC;WASH;WASH;Potable Water;1247;124704;Apo Sandawa ;Finished;12,000 ;liters
-407;IFRC;WASH;WASH;Potable Water;1247;124704;;Finished;2,000 ;liters
-408;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
-409;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;24,000 ;liters
-410;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-411;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
-412;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-413;IFRC;WASH;WASH;Potable Water;1247;124704;;Finished;12,000 ;liters
-414;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;2,000 ;liters
-415;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
-416;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-417;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-418;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;8,000 ;liters
-419;IFRC;WASH;WASH;Potable Water;1247;124704;Balindog;Finished;5,000 ;liters
-420;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
-421;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-422;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
-423;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
-424;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
-425;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;208 ;liters
-426;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
-427;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;2,000 ;liters
-428;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
-429;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;24,000 ;liters
-430;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
-431;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
-432;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;10,000 ;liters
-433;IFRC;WASH;WASH;Potable Water;1124;112407;Lowerr Bala;Finished;10,000 ;liters
-434;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;24,000 ;liters
-435;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;22,000 ;liters
-436;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
-437;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala ;Finished;12,000 ;liters
-438;IFRC;WASH;WASH;Potable Water;1124;112407;Tagaytay;Finished;7,000 ;liters
-439;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
-440;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;12,000 ;liters
-441;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;24,000 ;liters
-442;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
-443;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
-444;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
-445;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;6,000 ;liters
-446;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
-447;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-448;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-449;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
-450;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
-451;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
-452;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
-453;IFRC;WASH;WASH;Potable Water;1124;112407;New Opon;Finished;6,720 ;liters
-454;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
-455;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
-456;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-457;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-458;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
-459;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
-460;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-461;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-462;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
-463;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;5,000 ;liters
-464;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
-465;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
-466;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-467;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-468;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
-469;IFRC;WASH;WASH;Potable Water;1124;112407;;Finished;10,000 ;liters
-470;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-471;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
-472;IFRC;WASH;WASH;Potable Water;1124;112407;;Finished;10,000 ;liters
-473;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
-474;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;17,000 ;liters
-475;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;12,000 ;liters
-476;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-477;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-478;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-479;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-480;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-481;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-482;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-483;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
-484;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-485;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-486;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
-487;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;6,000 ;liters
-488;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;6,000 ;liters
-489;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-490;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
-491;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
-492;IFRC;WASH;WASH;Potable Water;1247;124707;Sto. Nino;Finished;12,000 ;liters
-493;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
-494;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;8,000 ;liters
-495;IFRC;WASH;WASH;Potable Water;1247;124707;;Finished;4,000 ;liters
-496;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;12,000 ;liters
-497;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;6,000 ;liters
-498;IFRC;WASH;WASH;Potable Water;1247;124707;;Finished;6,000 ;liters
-499;IFRC;WASH;WASH;Potable Water;1247;124707;;Finished;12,000 ;liters
-500;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
-501;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
-502;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112401;Kinuskusan;Finished;30;individuals
-503;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112401;Altavista;Finished;26;individuals
-504;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112403;Dawis;Finished;15;individuals
-505;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112403;Aplaya;Finished;4;individuals
-506;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Ginatilan;Finished;49;individuals
-507;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Poblacion;Finished;19;individuals
-508;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Perez;Finished;68;individuals
-509;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Perez;Finished;76;individuals
-510;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Meohao;Finished;22;individuals
-511;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Ilomavis;Finished;46;individuals
-512;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Poblacion;Finished;392;individuals
-513;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112407;;Finished;28;individuals
-514;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112407;;Finished;7;individuals
-515;IFRC;Volunteer Management;Volunteer;Recruitment;1247;112407;Tacul;Finished;62;individuals
-516;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Poblacion;Finished;22;individuals
-517;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Concepcion;Finished;232;individuals
-518;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Malabuan;Finished;59;individuals
-519;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Bulakanon;Finished;28;individuals
-520;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Indang;Finished;28;individuals
-521;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Malasila;Finished;160;individuals
-522;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Malasila;Finished;44;individuals
-523;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Sto. Nino;Finished;80;individuals
-524;IFRC;Volunteer Management;Volunteer;Recruitment;1124;;;Finished;24;individuals
-525;IFRC;Volunteer Management;Volunteer;Recruitment;1124;;;Finished;54;individuals
-526;IFRC;SRR;Rescue;Rescued/Assisted;1263;126306;;Finished;1;individual
-527;IFRC;SRR;Rescue;Rescued/Assisted;1263;126306;;Finished;1;individual
-528;IFRC;SRR;Rescue;Rescued/Assisted;1124;112407;Asinan;Finished;1;individual
-529;IFRC;SRR;Rescue;Rescued/Assisted;1124;;;Finished;1;individual
-530;IFRC;Welfare;RFL;RFL;1247;124704;Ilomavis;Finished;1;individual
-531;IFRC;WASH;Sanitation;Shower Room;1124;112407;Balnate;Finished;6 ;units
-532;IFRC;WASH;Sanitation;Shower Room;1124;112407;Upper Bala;Finished;2 ;units
-533;IFRC;WASH;Sanitation;Shower Room;1124;112407;Darapuay;Finished;2 ;units
-534;IFRC;WASH;Sanitation;Shower Room;1124;112407;Balnate;Finished;8 ;units
-535;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Dolo;Finished;107;families
-536;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Kinuskusan;Finished;194;families
-537;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Tubod;Finished;38;families
-538;IFRC;Relief;Non Food Item;SK:Blankets;1247;124704;Perez;Finished;71;families
-539;Local Donation: SBMA;Relief;Non Food Item;SK:Blankets;1124;112407;New Opon;Finished;323;families
-540;Private Donor;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;49;families
-541;Private Donor;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;18;families
-542;Private Donor;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;23;families
-543;Private Donor;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;14;families
-544;IFRC;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;160;families
-545;IFRC;Relief;Non Food Item;SK:Blankets;1124;112407;Malungo;Finished;179;families
-546;IFRC;Relief;Non Food Item;SK:Blankets;1247;124707;Malasila;Finished;393;families
-547;IFRC;Relief;Non Food Item;SK:Blankets;1247;124707;Old Bulatukan;Finished;294;families
-548;IFRC;Relief;Non Food Item;SK:Blankets;1247;124707;Malasila;Finished;90;families
-549;Private Donor: A.Locsin;Relief;Non Food Item;SK:Blankets;1124;112410;Poblacion;Finished;129;families
-550;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Dolo;Finished;107;families
-551;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Kinuskusan;Finished;194;families
-552;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Tubod;Finished;38;families
-553;IFRC;Relief;Non Food Item;SK:Mats;1247;124704;Perez;Finished;71;families
-554;Local Donation: SBMA;Relief;Non Food Item;SK:Mats;1124;112407;New Opon;Finished;323;families
-555;Private Donor;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;49;families
-556;Private Donor;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;18;families
-557;Private Donor;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;23;families
-558;Private Donor;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;14;families
-559;IFRC;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;160;families
-560;IFRC;Relief;Non Food Item;SK:Mats;1124;112407;Malungo;Finished;179;families
-561;IFRC;Relief;Non Food Item;SK:Mats;1247;124707;Malasila;Finished;393;families
-562;IFRC;Relief;Non Food Item;SK:Mats;1247;124707;Old Bulatukan;Finished;294;families
-563;IFRC;Relief;Non Food Item;SK:Mats;1247;124707;Malasila;Finished;90;families
-564;Private Donor: A.Locsin;Relief;Non Food Item;SK:Mats;1124;112410;Poblacion;Finished;129;families
-565;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Dolo;Finished;107;families
-566;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Kinuskusan;Finished;194;families
-567;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Tubod;Finished;38;families
-568;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124704;Perez;Finished;71;families
-569;Local Donation: SBMA;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;New Opon;Finished;323;families
-570;Private Donor;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;49;families
-571;Private Donor;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;18;families
-572;Private Donor;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;23;families
-573;Private Donor;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;14;families
-574;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;160;families
-575;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Malungo;Finished;179;families
-576;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124707;Malasila;Finished;393;families
-577;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124707;Old Bulatukan;Finished;294;families
-578;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124707;Malasila;Finished;90;families
-579;Private Donor: A.Locsin;Relief;Non Food Item;SK:Mosquito Nets;1124;112410;Poblacion;Finished;129;families
-580;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Dolo;Finished;107;families
-581;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Kinuskusan;Finished;194;families
-582;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Tubod;Finished;38;families
-583;IFRC;Relief;Non Food Item;Tarpaulins;1247;124704;Perez;Finished;71;families
-584;Local Donation: SBMA;Relief;Non Food Item;Tarpaulins;1124;112407;New Opon;Finished;323;families
-585;Private Donor;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;49;families
-586;Private Donor;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;18;families
-587;Private Donor;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;23;families
-588;Private Donor;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;14;families
-589;IFRC;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;160;families
-590;IFRC;Relief;Non Food Item;Tarpaulins;1124;112407;Malungo;Finished;179;families
-591;IFRC;Relief;Non Food Item;Tarpaulins;1247;124707;Malasila;Finished;393;families
-592;IFRC;Relief;Non Food Item;Tarpaulins;1247;124707;Old Bulatukan;Finished;294;families
-593;IFRC;Relief;Non Food Item;Tarpaulins;1247;124707;Malasila;Finished;90;families
-594;Private Donor: A.Locsin;Relief;Non Food Item;Tarpaulins;1124;112410;Poblacion;Finished;129;families
-595;IFRC;WASH;WASH;Water Bladder;1247;124704;;Finished;2 ;units
-596;IFRC;WASH;WASH;Water Bladder;1124;112407;Balnate;Finished;2 ;units
-597;IFRC;WASH;WASH;Water Tanker;1124;112403;;Finished;3;units
-598;IFRC;WASH;WASH;Water Tanker;1247;124704;;Finished;2;units
-599;IFRC;Welfare;PSP;Welfare Desk;1124;112401;Darapuay;Finished;1;desk
-600;IFRC;Welfare;PSP;Welfare Desk;1124;112401;Tubod ;Finished;1;desk
-601;IFRC;Welfare;PSP;Welfare Desk;1124;112401;Anonang;Finished;1;desk
-602;IFRC;Welfare;PSP;Welfare Desk;1124;112401;Upper Bala ;Finished;1;desk
-603;IFRC;Welfare;PSP;Welfare Desk;1124;112403;;Finished;1;desk
-604;IFRC;Welfare;PSP;Welfare Desk;1247;124704;Poblacion ;Finished;1;desk
-605;IFRC;Welfare;PSP;Welfare Desk;1247;124704;Poblacion ;Finished;1;desk
-606;IFRC;Welfare;PSP;Welfare Desk;1247;124704;Ginatilan;Finished;1;desk
-607;IFRC;Welfare;PSP;Welfare Desk;1124;112407;Tacul;Finished;1;desk
-608;IFRC;Welfare;PSP;Welfare Desk;1247;124707;Malasila;Finished;1;desk
-609;IFRC;Welfare;PSP;Welfare Desk;1247;124714;Poblacion;Finished;1;desk
-610;IFRC;Welfare;PSP;Welfare Desk;1124;;;Finished;1;desk
-611;IFRC;Welfare;PSP;Welfare Desk;1263;;;Finished;1;desk
+11;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
+12;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
+13;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
+14;IFRC;Safety;Safety;Ambulance;1247;124704;;Finished;1;unit
+15;IFRC;Safety;Safety;Ambulance Transport;1124;112401;Darapuay;Finished;1;individual
+16;IFRC;Safety;Safety;Ambulance Transport;1124;112403;Matti;Finished;1;individual
+17;IFRC;Safety;Safety;Ambulance Transport;1124;112404;;Finished;1;individual
+18;IFRC;Safety;Safety;Ambulance Transport;1263;126306;;Finished;1;individual
+19;IFRC;Safety;Safety;Ambulance Transport;1263;126306;;Finished;1;individual
+20;IFRC;Safety;Safety;Ambulance Transport;1124;112407;Balnate;Finished;1;individual
+21;IFRC;Safety;Safety;Ambulance Transport;1124;112411;Padada;Finished;1;individual
+22;IFRC;Safety;Safety;Ambulance Transport;1124;;;Finished;1;individual
+23;IFRC;Safety;Safety;Ambulance Transport;1124;;;Finished;1;individual
+24;IFRC;Safety;Safety;BP Consultation;1124;112401;Altavista;Finished;9;individuals
+25;IFRC;Safety;Safety;BP Consultation;1124;112401;Alegre;Finished;36;individuals
+26;IFRC;Safety;Safety;BP Consultation;1124;112401;Eman;Finished;8;individuals
+27;IFRC;Safety;Safety;BP Consultation;1124;112401;Dolo;Finished;15;individuals
+28;IFRC;Safety;Safety;BP Consultation;1124;112401;Mabunga;Finished;9;individuals
+29;IFRC;Safety;Safety;BP Consultation;1124;112401;Tinontonan;Finished;9;individuals
+30;IFRC;Safety;Safety;BP Consultation;1124;112401;Anonang;Finished;22;individuals
+31;IFRC;Safety;Safety;BP Consultation;1124;112403;Dawis;Finished;4;individuals
+32;IFRC;Safety;Safety;BP Consultation;1124;112403;Balabag;Finished;10;individuals
+33;IFRC;Safety;Safety;BP Consultation;1124;112403;;Finished;63;individuals
+34;IFRC;Safety;Safety;BP Consultation;1124;112403;Matti;Finished;12;individuals
+35;IFRC;Safety;Safety;BP Consultation;1124;112403;Binaton;Finished;6;individuals
+36;IFRC;Safety;Safety;BP Consultation;1124;112404;Leling;Finished;10;individuals
+37;IFRC;Safety;Safety;BP Consultation;1124;112404;Sinayawan;Finished;29;individuals
+38;IFRC;Safety;Safety;BP Consultation;1247;124704;Ilomavis;Finished;64;individuals
+39;IFRC;Safety;Safety;BP Consultation;1247;124704;Perez;Finished;10;individuals
+40;IFRC;Safety;Safety;BP Consultation;1247;124704;Meohao;Finished;40;individuals
+41;IFRC;Safety;Safety;BP Consultation;1263;126306;Marbel;Finished;14;individuals
+42;IFRC;Safety;Safety;BP Consultation;1263;126306;;Finished;3;individuals
+43;IFRC;Safety;Safety;BP Consultation;1124;112407;Tacul ;Finished;65;individuals
+44;IFRC;Safety;Safety;BP Consultation;1124;112407;Tacul;Finished;30;individuals
+45;IFRC;Safety;Safety;BP Consultation;1124;112407;;Finished;32;individuals
+46;IFRC;Safety;Safety;BP Consultation;1124;112407;Tacul;Finished;10;individuals
+47;IFRC;Safety;Safety;BP Consultation;1124;112407;Tacul;Finished;16;individuals
+48;IFRC;Safety;Safety;BP Consultation;1124;112407;Bacungan ;Finished;27;individuals
+49;IFRC;Safety;Safety;BP Consultation;1124;112407;Upper Bala;Finished;10;individuals
+50;IFRC;Safety;Safety;BP Consultation;1247;124707;Poblacion;Finished;10;individuals
+51;IFRC;Safety;Safety;BP Consultation;1247;124707;Kisante;Finished;75;individuals
+52;IFRC;Safety;Safety;BP Consultation;1247;124707;Old Bulatukan;Finished;4;individuals
+53;IFRC;Safety;Safety;BP Consultation;1247;124707;Poblacion;Finished;10;individuals
+54;IFRC;Safety;Safety;BP Consultation;1247;124707;Concepcion;Finished;17;individuals
+55;IFRC;Safety;Safety;BP Consultation;1247;124707;Malabuan;Finished;13;individuals
+56;IFRC;Safety;Safety;BP Consultation;1247;124707;Bulakanon;Finished;27;individuals
+57;IFRC;Safety;Safety;BP Consultation;1124;112410;Asinan;Finished;39;individuals
+58;IFRC;Safety;Safety;BP Consultation;1124;112410;Kiba-o;Finished;28;individuals
+59;IFRC;Safety;Safety;BP Consultation;1124;112410;New Opon;Finished;26;individuals
+60;IFRC;Safety;Safety;BP Consultation;1124;112410;Kapoc;Finished;49;individuals
+61;IFRC;Safety;Safety;BP Consultation;1124;112410;Savoy;Finished;17;individuals
+62;IFRC;Safety;Safety;BP Consultation;1124;112414;Waterfall;Finished;8;individuals
+63;IFRC;Safety;Safety;BP Consultation;1247;124714;Daig;Finished;2;individuals
+64;IFRC;Safety;Safety;BP Consultation;1247;124714;;Finished;5;individuals
+65;IFRC;Welfare;Ready to Eat;Bread;1124;112401;Darapuay;Finished;43;individuals
+66;IFRC;Welfare;Ready to Eat;Bread;1124;112403;Balabag;Finished;60;individuals
+67;IFRC;Welfare;Ready to Eat;Bread;1124;112403;Cogon;Finished;55;individuals
+68;Private Donor: Krispy Kreme;Welfare;Ready to Eat;Bread;1124;112403;;Finished;360;individuals
+69;IFRC;Welfare;PSP;CFS;1124;112401;Darapuay;Finished;31;individuals
+70;IFRC;Welfare;PSP;CFS;1124;112401;Anonang;Finished;34;individuals
+71;IFRC;Welfare;PSP;CFS;1124;112401;Kinuskusan;Finished;30;individuals
+72;IFRC;Welfare;PSP;CFS;1124;112401;Darapuay;Finished;24;individuals
+73;IFRC;Welfare;PSP;CFS;1124;112401;Kinuskusan;Finished;34;individuals
+74;IFRC;Welfare;PSP;CFS;1124;112401;Altavista;Finished;84;individuals
+75;IFRC;Welfare;PSP;CFS;1124;112403;Dawis;Finished;172;individuals
+76;IFRC;Welfare;PSP;CFS;1124;112403;Balabag;Finished;136;individuals
+77;IFRC;Welfare;PSP;CFS;1124;112403;;Finished;67;individuals
+78;IFRC;Welfare;PSP;CFS;1124;112404;Liling;Finished;18;individuals
+79;IFRC;Welfare;PSP;CFS;1124;112404;Leling;Finished;19;individuals
+80;IFRC;Welfare;PSP;CFS;1124;112404;Sinayawan;Finished;64;individuals
+81;IFRC;Welfare;PSP;CFS;1124;112404;Guihing;Finished;51;individuals
+82;IFRC;Welfare;PSP;CFS;1124;112406;Kasulan;Finished;61;individuals
+83;IFRC;Welfare;PSP;CFS;1247;124704;Perez;Finished;32;individuals
+84;IFRC;Welfare;PSP;CFS;1247;124704;Meohao;Finished;18;individuals
+85;IFRC;Welfare;PSP;CFS;1247;124704;Ilomavis;Finished;161;individuals
+86;IFRC;Welfare;PSP;CFS;1247;124704;Balabag;Finished;126;individuals
+87;IFRC;Welfare;PSP;CFS;1247;124704;Ilomavis;Finished;127;individuals
+88;IFRC;welfare;PSP;CFS;1247;124704;Ilomavis;Finished;300;individuals
+89;IFRC;welfare;PSP;CFS;1247;124704;Balabag;Finished;55;individuals
+90;IFRC;Welfare;PSP;CFS;1124;112407;Bacungan;Finished;44;individuals
+91;IFRC;Welfare;PSP;CFS;1124;112407;New Opon;Finished;51;individuals
+92;IFRC;Welfare;PSP;CFS;1124;112407;Tacul ;Finished;38;individuals
+93;IFRC;Welfare;PSP;CFS;1124;112407;;Finished;72;individuals
+94;IFRC;Welfare;PSP;CFS;1124;112407;;Finished;157;individuals
+95;IFRC;Welfare;PSP;CFS;1124;112407;Tacul;Finished;84;individuals
+96;IFRC;Welfare;PSP;CFS;1247;124707;Malasila;Finished;96;individuals
+97;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;23;individuals
+98;IFRC;Welfare;PSP;CFS;1247;124707;Malasila;Finished;60;individuals
+99;IFRC;Welfare;PSP;CFS;1247;124707;Kisante;Finished;80;individuals
+100;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;41;individuals
+101;IFRC;Welfare;PSP;CFS;1247;124707;Malasila;Finished;107;individuals
+102;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;56;individuals
+103;IFRC;Welfare;PSP;CFS;1247;124707;Concepcion;Finished;57;individuals
+104;IFRC;Welfare;PSP;CFS;1247;124707;Malabuan;Finished;32;individuals
+105;IFRC;Welfare;PSP;CFS;1247;124707;Bulakanon;Finished;39;individuals
+106;IFRC;Welfare;PSP;CFS;1247;124707;Sto. Nino;Finished;78;individuals
+107;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;35;individuals
+108;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;64;individuals
+109;IFRC;Welfare;PSP;CFS;1247;124707;Lapan;Finished;65;individuals
+110;IFRC;Welfare;PSP;CFS;1247;124707;;Finished;79;individuals
+111;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;33;individuals
+112;IFRC;Welfare;PSP;CFS;1247;124707;;Finished;53;individuals
+113;IFRC;Welfare;PSP;CFS;1247;124707;Garsika;Finished;63;individuals
+114;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;30;individuals
+115;IFRC;Welfare;PSP;CFS;1247;124707;Poblacion;Finished;53;individuals
+116;IFRC;Welfare;PSP;CFS;1247;124707;Poblacion;Finished;35;individuals
+117;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatucan;Finished;24;individuals
+118;IFRC;Welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;21;individuals
+119;IFRC;Welfare;PSP;CFS;1247;124707;Luayon;Finished;183;individuals
+120;IFRC;welfare;PSP;CFS;1247;124707;Poblacion;Finished;29;individuals
+121;IFRC;welfare;PSP;CFS;1247;124707;Bulakanon;Finished;118;individuals
+122;IFRC;welfare;PSP;CFS;1247;124707;Poblacion;Finished;28;individuals
+123;IFRC;welfare;PSP;CFS;1247;124707;Old Bulatukan;Finished;29;individuals
+124;IFRC;welfare;PSP;CFS;1247;124707;Bulakanon;Finished;55 ;individuals
+125;IFRC;welfare;PSP;CFS;1247;124707;luayon;Finished;94 ;individuals
+126;IFRC;Welfare;Ready to Eat;CFS;1124;112408;Malalag;Finished;250 ;individuals
+127;IFRC;Welfare;PSP;CFS;1124;112410;Asinan;Finished;24;individuals
+128;IFRC;Welfare;PSP;CFS;1124;112410;Asinan;Finished;69;individuals
+129;IFRC;Welfare;PSP;CFS;1124;112410;Dongan-Pekong;Finished;121;individuals
+130;IFRC;Welfare;PSP;CFS;1124;112410;Kiba-o;Finished;65;individuals
+131;IFRC;Welfare;PSP;CFS;1124;112410;Kapoc;Finished;59;individuals
+132;IFRC;Welfare;PSP;CFS;1124;112410;Kauswagan;Finished;25;individuals
+133;Local Donor: Smart Telecomms;Welfare;RFL;Comms:Basic Phone;1247;124704;Poblacion;Finished;1;unit
+134;Local Donor: Smart Telecomms;Welfare;RFL;Comms:Basic Phone;1124;;;Finished;1;unit
+135;Local Donor: Smart Telecomms;Welfare;RFL;Comms:Satellite phone;1247;124704;Poblacion;Finished;1;unit
+136;Local Donor: Smart Telecomms;Welfare;RFL;Comms:Satellite phone;1124;;;Finished;1;unit
+137;IFRC;Camp Management;Shelter;Communal Kitchen;1124;112403;Balabag;Finished;2 ;units
+138;IFRC;Camp Management;Shelter;Communal Kitchen;1124;112407;San Miguel;Finished;3 ;units
+139;IFRC;Camp Management;Shelter;Communal Kitchen;1124;112407;Bala;Finished;2 ;units
+140;IFRC;Camp Management;Shelter;Communal Kitchen;1247;124707;Santos Land;Finished;2 ;units
+141;IFRC;Camp Management;Shelter;Communal Kitchen;1247;124707;Luayon;Finished;2 ;units
+142;IFRC;Camp Management;Shelter;Communal Kitchen;1124;112410;Asinan;Finished;2 ;units
+143;Local Donation;relief;Non Food Item;Drawing Books and Colored Pencils;1247;124704;Calaocan;Finished;276;individuals
+144;IFRC;Camp Management;Shelter;Family Tents;1124;112410;Kauswagan;Finished;100;families
+145;IFRC;Safety;Safety;First Aid;1124;112401;Mabunga;Finished;1;individual
+146;IFRC;Safety;Safety;First Aid;1124;112401;Tinontonan;Finished;1;individual
+147;IFRC;Safety;Safety;First Aid;1124;112401;Anonang;Finished;1;individual
+148;IFRC;Safety;Safety;First Aid;1247;124704;Ilomavis;Finished;2;individuals
+149;IFRC;Safety;Safety;First Aid;1263;126306;;Finished;12;individuals
+150;IFRC;Safety;Safety;First Aid;1263;126306;;Finished;1;individual
+151;IFRC;Safety;Safety;First Aid;1263;126306;;Finished;2;individuals
+152;IFRC;Safety;Safety;First Aid;1263;126306;;Finished;4;individuals
+153;IFRC;Safety;Safety;First Aid;1124;112407;Balnate;Finished;1;individual
+154;IFRC;Safety;Safety;First Aid;1124;112407;Tacul ;Finished;3;individuals
+155;IFRC;Safety;Safety;First Aid;1124;112407;Tacul;Finished;2;individuals
+156;IFRC;Safety;Safety;First Aid;1124;112407;San Miguel;Finished;1;individual
+157;IFRC;Safety;Safety;First Aid;1124;112407;Balnate;Finished;1;individual
+158;IFRC;Safety;Safety;First Aid;1124;112407;Bacungan ;Finished;1;individual
+159;IFRC;Safety;Safety;First Aid;1247;124707;;Finished;3;individuals
+160;IFRC;Safety;Safety;First Aid;1124;112410;New Opon;Finished;3;individuals
+161;IFRC;Safety;Safety;First Aid;1124;112410;Manga;Finished;1;individual
+162;IFRC;Safety;Safety;First Aid;1124;112410;Savoy;Finished;1;individual
+163;IFRC;Safety;Safety;First Aid;1247;124714;;Finished;1;individual
+164;IFRC;Safety;Safety;First Aid;1124;;;Finished;6;individuals
+165;IFRC;Safety;Safety;First Aid;1124;;;Finished;1;individual
+166;IFRC;Safety;Safety;First Aid;1247;;;Finished;48;individuals
+167;IFRC;Safety;Safety;First Aid Station;1124;112401;Darapuay;Finished;1;station
+168;IFRC;Safety;Safety;First Aid Station;1124;112401;Anonang;Finished;1;station
+169;IFRC;Safety;Safety;First Aid Station;1124;112401;Alegre;Finished;1;station
+170;IFRC;Safety;Safety;First Aid Station;1124;112401;Marber;Finished;1;station
+171;IFRC;Safety;Safety;First Aid Station;1124;112401;Sto. Nino;Finished;1;station
+172;IFRC;Safety;Safety;First Aid Station;1124;112401;Rizal;Finished;1;station
+173;IFRC;Safety;Safety;First Aid Station;1124;112401;Sibuyan;Finished;1;station
+174;IFRC;Safety;Safety;First Aid Station;1124;112401;Kinuskusan;Finished;1;desk
+175;IFRC;Safety;Safety;First Aid Station;1124;112401;Bansalan;Finished;1;desk
+176;IFRC;Safety;Safety;First Aid Station;1124;112403;Dawis;Finished;1;station
+177;IFRC;Safety;Safety;First Aid Station;1124;112403;Balabag;Finished;1;station
+178;IFRC;Safety;Safety;First Aid Station;1124;112403;Binaton;Finished;1;desk
+179;IFRC;Safety;Safety;First Aid Station;1124;112403;Zone 2;Finished;1;desk
+180;IFRC;Safety;Safety;First Aid Station;1247;124704;Poblacion;Finished;1;station
+181;IFRC;Safety;Safety;First Aid Station;1247;124704;Poblacion;Finished;1;station
+182;IFRC;Safety;Safety;First Aid Station;1247;124704;Poblacion;Finished;1;station
+183;IFRC;Safety;Safety;First Aid Station;1247;124704;Poblacion;Finished;1;station
+184;IFRC;Safety;Safety;First Aid Station;1247;124704;Ginatilan;Finished;1;station
+185;IFRC;Safety;Safety;First Aid Station;1247;124704;Bagong Silang;Finished;1;station
+186;IFRC;Safety;Safety;First Aid Station;1124;112407;Bacungan ;Finished;1;station
+187;IFRC;Safety;Safety;First Aid Station;1124;112407;Upper Bala;Finished;1;station
+188;IFRC;Safety;Safety;First Aid Station;1247;124707;Poblacion;Finished;1;station
+189;IFRC;Safety;Safety;First Aid Station;1247;124707;Malasila;Finished;1;station
+190;IFRC;Safety;Safety;First Aid Station;1124;112410;Asinan;Finished;1;station
+191;IFRC;Safety;Safety;First Aid Station;1124;112410;Kapoc;Finished;1;station
+192;IFRC;Safety;Safety;First Aid Station;1124;112414;Waterfall;Finished;1;desk
+193;IFRC;Safety;Safety;First Aid Station;1263;;;Finished;1;station
+194;PRC;Relief;Food Item;Food Items;1124;112401;Dolo;Finished;107;families
+195;PRC;Relief;Food Item;Food Items;1124;112401;Kinuskusan;Finished;194;families
+196;PRC;Relief;Food Item;Food Items;1124;112401;Tubod;Finished;38;families
+197;PRC;Relief;Food Item;Food Items;1124;112401;Darapuay;Finished;119;families
+198;PRC;Relief;Food Item;Food Items;1124;112401;Altavista;Finished;241;families
+199;PRC;Relief;Food Item;Food Items;1124;112403;Balabag;Finished;120;families
+200;IFRC;Relief;Food Item;Food Items;1124;112404;Guihing;Finished;276 ;families
+201;IFRC;Relief;Food Item;Food Items;1124;112404;Guihing;Finished;115 ;families
+202;PRC;Relief;Food Item;Food Items;1247;124704;Perez;Finished;204;families
+203;PRC;Relief;Food Item;Food Items;1247;124704;Bulacanon;Finished;304;families
+204;IFRC;Relief;Food Item;Food Items;1247;124704;Ilomavis;Finished;384;families
+205;Local Donation;relief;Food Item;Food Items;1247;124704;Perez;Finished;78;families
+206;PRC;Relief;Food Item;Food Items;1124;112407;Tacul;Finished;160;families
+207;PRC;Relief;Food Item;Food Items;1124;112407;Malungo;Finished;179;families
+208;IFRC;Relief;Food Item;Food Items;1124;112407;Upper Bala;Finished;693;families
+209;PRC;Relief;Food Item;Food Items;1247;124707;Old Bulatukan;Finished;294;families
+210;Private Donor: A.Locsin;Relief;Food Item;Food Items;1247;124707;Malasila;Finished;162;families
+211;IFRC;Relief;Food Item;Food Items;1247;124707;Sandique;Finished;140;families
+212;IFRC;Relief;Food Item;Food Items;1247;124707;;Finished;26;families
+213;IFRC;Relief;Food Item;Food Items;1247;124707;Kisante;Finished;56;families
+214;Local Donation: Tulfo;relief;Food Item;Food Items;1247;124707;Concepcion;Finished;230;families
+215;Local Donation: Tulfo;relief;Food Item;Food Items;1247;124707;Concepcion;Finished;94;families
+216;Private Donor: A.Locsin;Relief;Food Item;Food Items;1124;112410;Poblacion;Finished;129;families
+217;IFRC;Relief;Food Item;Food Items;1124;112410;Kauswagan;Finished;261;families
+218;Local Donation: SBMA;Relief;Food Item;Food Items: Assorted;1124;112407;New Opon;Finished;323;families
+219;Private Donation;Relief;Food Item;Food Items: Assorted;1247;124707;Quibod;Finished;22;families
+220;Private Donation;Relief;Food Item;Food Items: Assorted;1247;124707;Quibod;Finished;21;families
+221;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Anonang;Finished;36;individuals
+222;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Kinuskusan;Finished;34;individuals
+223;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Altavista;Finished;227;individuals
+224;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Darapuay;Finished;200;individuals
+225;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112401;Kinuskusan;Finished;850 ;individuals
+226;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;;Finished;68;individuals
+227;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;;Finished;20;individuals
+228;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;52;individuals
+229;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;204;individuals
+230;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Aplaya;Finished;264;individuals
+231;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;280;individuals
+232;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Dulangan;Finished;30;individuals
+233;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112403;Balabag;Finished;65;individuals
+234;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Guihing;Finished;398;individuals
+235;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Sinayawan;Finished;178;individuals
+236;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Sinayawan;Finished;74;individuals
+237;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112404;Leling;Finished;19;individuals
+238;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;53;individuals
+239;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;30;individuals
+240;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;;Finished;83;individuals
+241;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;Finished;400;individuals
+242;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;99;individuals
+243;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;132;individuals
+244;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Poblacion;Finished;135;individuals
+245;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;Finished;369;individuals
+246;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ilomavis;Finished;481;individuals
+247;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ilomavis;Finished;253;individuals
+248;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ginatilan;Finished;197;individuals
+249;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Meohao;Finished;370;individuals
+250;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Ilomavis;Finished;450;individuals
+251;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Balabag;Finished;300;individuals
+252;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124704;Lapan;Finished;356;individuals
+253;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112407;New Opon;Finished;51;individuals
+254;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112407;San Miguel;Finished;150;individuals
+255;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112407;Tacul;Finished;900;individuals
+256;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112407;Bacungan ;Finished;461;individuals
+257;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112407;Upper Bala;Finished;600;individuals
+258;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Malasila;Finished;657;individuals
+259;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Old Bulatukan;Finished;476;individuals
+260;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Kisante;Finished;332;individuals
+261;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Old Bulatukan;Finished;425;individuals
+262;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Poblacion;Finished;350;individuals
+263;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Concepcion;Finished;596;individuals
+264;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Concepcion;Finished;596;individuals
+265;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Malabuan;Finished;826;individuals
+266;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Bulakanon;Finished;556;individuals
+267;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Indingan;Finished;500;individuals
+268;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Sto. Nino;Finished;400;individuals
+269;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Malasila;Finished;280;individuals
+270;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;;Finished;250;individuals
+271;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;;Finished;124;individuals
+272;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Garsika;Finished;305;individuals
+273;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Biangan;Finished;200;individuals
+274;IFRC;Welfare;Ready to Eat;Hotmeals;1247;124707;Luayon;Finished;1,487;individuals
+275;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112408;Malalag;Finished;300 ;individuals
+276;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112410;Poblacion;Finished;580;individuals
+277;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112410;Kiba-o;Finished;65;individuals
+278;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112410;Kapoc;Finished;167;individuals
+279;IFRC;Welfare;Ready to Eat;Hotmeals;1124;112410;Kauswagan;Finished;152;individuals
+280;IFRC;Relief;Non Food Item;Hygiene Kits;1124;112404;Malabang;Finished;158;families
+281;IFRC;Relief;Non Food Item;Hygiene Kits;1124;112406;Balasiao;Finished;240;families
+282;IFRC;Relief;Non Food Item;Hygiene Kits;1124;112406;Molopolo;Finished;170;families
+283;Local Donation;relief;Non Food Item;Hygiene Kits;1247;124704;Indangan;Finished;315;families
+284;IFRC;relief;Non Food Item;Hygiene Kits;1247;124707;Kisante;Finished;56;families
+285;Local Donation: Tulfo;relief;Non Food Item;Hygiene Kits;1247;124707;Concepcion;Finished;230;families
+286;Local Donation: Tulfo;relief;Non Food Item;Hygiene Kits;1247;124707;Concepcion;Finished;94;families
+287;IFRC;relief;Non Food Item;Hygiene Kits;1124;112410;Lower Marber;Finished;113;families
+288;IFRC;relief;Non Food Item;Hygiene Kits;1124;112410;Kapoc;Finished;72;families
+289;IFRC;relief;Non Food Item;Hygiene Kits;1124;112410;Kapoc;Finished;73;families
+290;IFRC;Relief;Non Food Item;Hygiene Kits ;1124;112403;Balabag;Finished;120;families
+291;IFRC;Relief;Non Food Item;Hygiene Kits ;1247;124704;Ilomavis;Finished;384;families
+292;IFRC;Relief;Non Food Item;Hygiene Kits ;1124;112407;Tacul;Finished;160;families
+293;IFRC;Relief;Non Food Item;Hygiene Kits ;1124;112407;Malungo;Finished;179;families
+294;IFRC;Relief;Non Food Item;Hygiene Kits ;1247;124707;Old Bulatukan;Finished;294;families
+295;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits ;1247;124707;Sto. Nino;Finished;150;families
+296;IFRC;Relief;Non Food Item;Hygiene Kits ;1247;124707;New Bulatukan;Finished;66;families
+297;IFRC;Relief;Non Food Item;Hygiene Kits ;1247;124707;New Bulatukan;Finished;44;families
+298;IFRC;Relief;Non Food Item;Hygiene Kits ;1247;124707;;Finished;66;families
+299;IFRC;Relief;Non Food Item;Hygiene Kits ;1124;112410;Kapoc;Finished;120;families
+300;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Dolo;Finished;107;families
+301;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Kinuskusan;Finished;194;families
+302;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112401;Tubod;Finished;38;families
+303;Private Donor: A.Locsin;Relief;Non Food Item;Hygiene Kits (Assorted);1124;112410;Poblacion;Finished;129;families
+304;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Darapuay;Finished;655;individuals
+305;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Kinuskusan;Finished;1,235;individuals
+306;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Darapuay;Finished;45;individuals
+307;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Altavista;Finished;149;individuals
+308;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Darapuay;Finished;180;individuals
+309;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Alegre;Finished;86;individuals
+310;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Managa;Finished;90;individuals
+311;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Eman;Finished;90;individuals
+312;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Dolo;Finished;115;individuals
+313;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Sto Nino;Finished;57;individuals
+314;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Rizal;Finished;149;individuals
+315;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Marber;Finished;214;individuals
+316;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112401;Sibuyan;Finished;67;individuals
+317;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112401;Mabunga;Finished;94 ;individuals
+318;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112401;Tinontonan;Finished;85 ;individuals
+319;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112401;Anonang;Finished;54 ;individuals
+320;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Balabag;Finished;280;individuals
+321;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Sinawilan;Finished;16;individuals
+322;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Goma;Finished;7;individuals
+323;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;;Finished;427;individuals
+324;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112403;Balabag;Finished;62;individuals
+325;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112403;Dawis;Finished;90;individuals
+326;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112403;Sinawalayan;Finished;542 ;individuals
+327;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112403;Sinawalayan;Finished;118 ;individuals
+328;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112403;Sinawalayan;Finished;181 ;individuals
+329;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112403;Sinawalayan;Finished;36 ;individuals
+330;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112404;Guihing;Finished;148 ;individuals
+331;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112404;Guihing;Finished;303 ;individuals
+332;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112404;Guihing;Finished;19 ;individuals
+333;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112404;Guihing;Finished;303 ;individuals
+334;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;13;individuals
+335;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Matingao;Finished;80;individuals
+336;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Ilomavis;Finished;35;individuals
+337;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;252;individuals
+338;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;132;individuals
+339;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;162;individuals
+340;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;872;individuals
+341;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;577;individuals
+342;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Perez;Finished;18;individuals
+343;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;28;individuals
+344;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Lapan;Finished;77;individuals
+345;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;Poblacion;Finished;402;individuals
+346;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124704;;Finished;53;individuals
+347;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124704;Ilomavis;Finished;87 ;individuals
+348;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124704;Ilomavis;Finished;70 ;individuals
+349;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124704;Ilomavis;Finished;31 ;individuals
+350;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124704;Perez;Finished;124 ;individuals
+351;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124704;Perez;Finished;111 ;individuals
+352;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124704;Balabag;Finished;194 ;individuals
+353;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;Finished;392;individuals
+354;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;Finished;196;individuals
+355;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;Finished;341;individuals
+356;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Bacungan;Finished;37;individuals
+357;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;91;individuals
+358;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;62;individuals
+359;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;;Finished;180;individuals
+360;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;;Finished;140;individuals
+361;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;16;individuals
+362;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;10;individuals
+363;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;Finished;66;individuals
+364;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Balnate;Finished;102;individuals
+365;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;72;individuals
+366;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;San Miguel;Finished;150;individuals
+367;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;48;individuals
+368;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Tacul;Finished;84;individuals
+369;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Poblacion;Finished;11;individuals
+370;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Bacungan ;Finished;344;individuals
+371;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Malawanit;Finished;55;individuals
+372;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Poblacion;Finished;11;individuals
+373;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Bacungan ;Finished;98;individuals
+374;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Upper Bala;Finished;76;individuals
+375;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112407;Upper Bala;Finished;103;individuals
+376;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112407;Malawanit;Finished;358 ;individuals
+377;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112407;Malawanit;Finished;103 ;individuals
+378;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112407;Balante;Finished;202 ;individuals
+379;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112407;Balante;Finished;106 ;individuals
+380;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112407;Balante;Finished;60 ;individuals
+381;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112407;Balante;Finished;50 ;individuals
+382;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Concepcion;Finished;601;individuals
+383;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Malasila;Finished;13;individuals
+384;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Sto. Nino;Finished;80;individuals
+385;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Malasila;Finished;44;individuals
+386;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Malasila;Finished;160;individuals
+387;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Poblacion;Finished;24;individuals
+388;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Poblacion;Finished;38;individuals
+389;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Saguing;Finished;40;individuals
+390;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Sto. Nino;Finished;694;individuals
+391;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Bulakanon;Finished;449;individuals
+392;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Concepcion;Finished;449;individuals
+393;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Malabuan;Finished;886;individuals
+394;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;Kisante;Finished;124;individuals
+395;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;New Bulatukan;Finished;36;individuals
+396;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;New Bulatukan;Finished;33;individuals
+397;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;;Finished;81;individuals
+398;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;124707;;Finished;103;individuals
+399;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Malasila;Finished;168;individuals
+400;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Malabuan;Finished;109 ;individuals
+401;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Malasila;Finished;108 ;individuals
+402;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Batasan;Finished;39 ;individuals
+403;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Rodero;Finished;42 ;individuals
+404;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Rodero;Finished;32 ;individuals
+405;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Rodero;Finished;43 ;individuals
+406;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Batasan;Finished;17 ;individuals
+407;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Rodero;Finished;140 ;individuals
+408;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Indangan;Finished;206;individuals
+409;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1247;124707;Garsika;Finished;129;individuals
+410;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112410;Dongan-Pekong;Finished;86;individuals
+411;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112410;Kiba-o;Finished;115;individuals
+412;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112410;New Opon;Finished;114;individuals
+413;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112410;Kapoc;Finished;112;individuals
+414;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1124;112410;Poblacion;Finished;116;individuals
+415;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112410;Manga;Finished;106;individuals
+416;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112410;Savoy;Finished;108;individuals
+417;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112410;Balabag;Finished;43;individuals
+418;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112410;Kauswagan;Finished;109 ;individuals
+419;IFRC;Health;Hygiene Promotion;Hygiene Promotion;1124;112410;Kauswagan;Finished;45 ;individuals
+420;IFRC;WASH;Hygiene Promotion;Hygiene Promotion;1247;;;Finished;73;individuals
+421;IFRC;Education;Temporary Learning Spaces;Inflatable Tent;1124;112403;;Finished;2;units
+422;IFRC;Education;Temporary Learning Spaces;Inflatable Tent;1247;124704;;Finished;3;units
+423;IFRC;Education;Temporary Learning Spaces;Inflatable Tent;1124;112407;Old Bulatukan;Finished;2;units
+424;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112401;Darapuay;Finished;119;families
+425;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112403;Balabag;Finished;120;families
+426;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112407;Tacul;Finished;160;families
+427;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112407;Malungo;Finished;179;families
+428;IFRC;Relief;Non Food Item;Jerry Cans (10L);1247;124707;Old Bulatukan;Finished;294;families
+429;IFRC;Relief;Non Food Item;Jerry Cans (10L);1247;124707;Sto. Nino;Finished;150;families
+430;IFRC;Relief;Non Food Item;Jerry Cans (10L);1247;124707;New Bulatukan;Finished;66;families
+431;IFRC;Relief;Non Food Item;Jerry Cans (10L);1247;124707;New Bulatukan;Finished;44;families
+432;IFRC;relief;Non Food Item;Jerry Cans (10L);1247;124707;Old Bulatukan;Finished;169;families
+433;IFRC;Relief;Non Food Item;Jerry Cans (10L);1124;112410;Kapoc;Finished;120;families
+434;IFRC;relief;Non Food Item;Jerry Cans (10L);1124;112410;Lower Marber;Finished;113;families
+435;IFRC;relief;Non Food Item;Jerry Cans (10L);1124;112410;Kapoc;Finished;72;families
+436;IFRC;relief;Non Food Item;Jerry Cans (10L);1124;112410;Kapoc;Finished;100;families
+437;IFRC;relief;Non Food Item;Jerry Cans (10L);1124;112410;Kapoc;Finished;73;families
+438;Local Donation: SBMA;Relief;Non Food Item;Jerry Cans (20L);1124;112407;New Opon;Finished;323;families
+439;Private Donor;Relief;Non Food Item;Jerry Cans (20L);1124;112407;Tacul;Finished;49;families
+440;Private Donor;Relief;Non Food Item;Jerry Cans (20L);1124;112407;Tacul;Finished;18;families
+441;Private Donor;Relief;Non Food Item;Jerry Cans (20L);1124;112407;Tacul;Finished;23;families
+442;Private Donor;Relief;Non Food Item;Jerry Cans (20L);1124;112407;Tacul;Finished;14;families
+443;IFRC;WASH;WASH;LMS;1124;112403;;Finished;1;unit
+444;IFRC;WASH;WASH;LMS;1247;124704;;Finished;1;unit
+445;Local Donation: ROHM;Relief;Food Item;Media Noche;1124;112403;Sinawilan;Finished;202;families
+446;Local Donation: ROHM;Relief;Food Item;Media Noche;1124;112404;Malabang;Finished;158 ;families
+447;Local Donation: ROHM;Relief;Food Item;Media Noche;1124;112406;Balasiao;Finished;240;families
+448;Local Donation: ROHM;relief;Food Item;Media Noche;1247;124704;Ilomavis;Finished;382;families
+449;Local Donation: ROHM;relief;Food Item;Media Noche;1247;124704;Balabag;Finished;368;families
+450;ICRC;WASH;WASH;Onion Tanks;1124;112407;Balnate;Finished;2;units
+451;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;10;individuals
+452;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;6;individuals
+453;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;28;individuals
+454;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;6;individuals
+455;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;11;individuals
+456;IFRC;Health;Emergency Medical Unit;Patient Catered;1265;124704;Poblacion;Finished;18;individuals
+457;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;10;individuals
+458;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;11;individuals
+459;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;3;individuals
+460;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;15;individuals
+461;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;8;individuals
+462;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;5;individuals
+463;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;11;individuals
+464;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;10;individuals
+465;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;5;individuals
+466;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;23;individuals
+467;IFRC;Health;Emergency Medical Unit;Patient Catered;1247;124704;Poblacion;Finished;12;individuals
+468;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;21 ;individuals
+469;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;21;individuals
+470;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;17;individuals
+471;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;22;individuals
+472;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;39;individuals
+473;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;40 ;individuals
+474;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;30;individuals
+475;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;36 ;individuals
+476;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;40;individuals
+477;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;44 ;individuals
+478;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;38;individuals
+479;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;36;individuals
+480;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;31;individuals
+481;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;20 ;individuals
+482;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;24 ;individuals
+483;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;19 ;individuals
+484;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;15;individuals
+485;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;28;individuals
+486;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;26 ;individuals
+487;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;26;individuals
+488;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;13;individuals
+489;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;5;individuals
+490;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;20;individuals
+491;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;22;individuals
+492;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;25;individuals
+493;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;27;individuals
+494;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;31 ;individuals
+495;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;39 ;individuals
+496;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;25;individuals
+497;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;27 ;individuals
+498;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;23 ;individuals
+499;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;24 ;individuals
+500;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;24 ;individuals
+501;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;20 ;individuals
+502;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;21 ;individuals
+503;IFRC;Health;Health;Patient Catered;1247;124704;Poblacion;Finished;20;individuals
+504;IFRC;Welfare;PSP;PFA;1124;112401;;Finished;170;individuals
+505;IFRC;Welfare;PSP;PFA;1124;112401;Anonang;Finished;75;individuals
+506;IFRC;Welfare;PSP;PFA;1124;112401;Kinuskusan;Finished;7;individuals
+507;IFRC;Welfare;PSP;PFA;1124;112401;Tubod;Finished;12;individuals
+508;IFRC;Welfare;PSP;PFA;1124;112401;Darapuay;Finished;14;individuals
+509;IFRC;Welfare;PSP;PFA;1124;112401;Anonang;Finished;1;individual
+510;IFRC;Welfare;PSP;PFA;1124;112401;Marber;Finished;58;individuals
+511;IFRC;Welfare;PSP;PFA;1124;112401;Altavista;Finished;84;individuals
+512;IFRC;Welfare;PSP;PFA;1124;112403;;Finished;20;individuals
+513;IFRC;Welfare;PSP;PFA;1124;112403;Aplaya;Finished;10;individuals
+514;IFRC;Welfare;PSP;PFA;1124;112403;Balabag;Finished;104;individuals
+515;IFRC;Welfare;PSP;PFA;1124;112403;Dulangan;Finished;30;individuals
+516;IFRC;Welfare;PSP;PFA;1124;112403;Dawis;Finished;62;individuals
+517;IFRC;Welfare;PSP;PFA;1124;112403;Balabag;Finished;37;individuals
+518;IFRC;Welfare;PSP;PFA;1124;112403;San Jose;Finished;10;individuals
+519;IFRC;Welfare;PSP;PFA;1263;126303;;Finished;44;individuals
+520;IFRC;Welfare;PSP;PFA;1124;112404;Leling;Finished;77;individuals
+521;IFRC;Welfare;PSP;PFA;1124;112404;Sinayawan;Finished;178;individuals
+522;IFRC;Welfare;PSP;PFA;1124;112404;Sinayawan;Finished;10;individuals
+523;IFRC;Welfare;PSP;PFA;1124;112404;Guihing;Finished;10;individuals
+524;IFRC;Welfare;PSP;PFA;1124;112406;Kasulan;Finished;78;individuals
+525;IFRC;Welfare;PSP;PFA;1247;124704;Amas;Finished;13;individuals
+526;IFRC;Welfare;PSP;PFA;1247;124704;Mua-an;Finished;25;individuals
+527;IFRC;Welfare;PSP;PFA;1247;124704;Perez;Finished;13;individuals
+528;IFRC;Welfare;PSP;PFA;1247;124704;Perez;Finished;76;individuals
+529;IFRC;Welfare;PSP;PFA;1247;124704;Meohao;Finished;24;individuals
+530;IFRC;Welfare;PSP;PFA;1247;124704;Ilomavis;Finished;21;individuals
+531;IFRC;Welfare;PSP;PFA;1247;124704;Balabag;Finished;17;individuals
+532;IFRC;Welfare;PSP;PFA;1247;124704;Ilomavis;Finished;24;individuals
+533;IFRC;Welfare;PSP;PFA;1263;126306;;Finished;22;individuals
+534;IFRC;Welfare;PSP;PFA;1124;112407;Balnate;Finished;155;individuals
+535;IFRC;Welfare;PSP;PFA;1124;112407;Tacul ;Finished;19;individuals
+536;IFRC;Welfare;PSP;PFA;1124;112407;;Finished;84;individuals
+537;IFRC;Welfare;PSP;PFA;1124;112407;;Finished;91;individuals
+538;IFRC;Welfare;PSP;PFA;1247;124707;Malasila;Finished;132;individuals
+539;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;126;individuals
+540;IFRC;Welfare;PSP;PFA;1247;124707;Malasila;Finished;19;individuals
+541;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;4;individuals
+542;IFRC;Welfare;PSP;PFA;1247;124707;Kisante;Finished;16;individuals
+543;IFRC;Welfare;PSP;PFA;1247;124707;Malasila;Finished;12;individuals
+544;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;57;individuals
+545;IFRC;Welfare;PSP;PFA;1247;124707;Poblacion;Finished;15;individuals
+546;IFRC;Welfare;PSP;PFA;1247;124707;New Cebu;Finished;19;individuals
+547;IFRC;Welfare;PSP;PFA;1247;124707;Concepcion;Finished;284;individuals
+548;IFRC;Welfare;PSP;PFA;1247;124707;Malabuan;Finished;59;individuals
+549;IFRC;Welfare;PSP;PFA;1247;124707;Bulakanon;Finished;55;individuals
+550;IFRC;Welfare;PSP;PFA;1247;124707;Sto. Nino;Finished;32;individuals
+551;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;24;individuals
+552;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;28;individuals
+553;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;45;individuals
+554;IFRC;Welfare;PSP;PFA;1247;124707;Lapan;Finished;34;individuals
+555;IFRC;Welfare;PSP;PFA;1247;124707;;Finished;30;individuals
+556;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;5;individuals
+557;IFRC;Welfare;PSP;PFA;1247;124707;;Finished;24;individuals
+558;IFRC;Welfare;PSP;PFA;1247;124707;Garsika;Finished;12;individuals
+559;IFRC;Welfare;PSP;PFA;1247;124707;Old Bulatukan;Finished;21;individuals
+560;IFRC;Welfare;PSP;PFA;1247;124707;Poblacion;Finished;18;individuals
+561;IFRC;Welfare;PSP;PFA;1124;112408;Poblacion;Finished;30;individuals
+562;IFRC;Welfare;PSP;PFA;1124;112410;Asinan;Finished;65;individuals
+563;IFRC;Welfare;PSP;PFA;1124;112410;Kauswagan;Finished;10;individuals
+564;IFRC;Welfare;PSP;PFA;;124714;Daig;Finished;40;individuals
+565;IFRC;WASH;Sanitation;Portable Toilet;1124;112401;Darapuay;Finished;2 ;units
+566;IFRC;WASH;Sanitation;Portable Toilet;1124;112403;;Finished;4 ;units
+567;IFRC;WASH;Sanitation;Portable Toilet;1124;112403;Dawis;Finished;12 ;units
+568;IFRC;WASH;Sanitation;Portable Toilet;1124;112403;Balabag;Finished;5 ;units
+569;IFRC;WASH;Sanitation;Portable Toilet;1247;124704;;Finished;2 ;units
+570;IFRC;WASH;Sanitation;Portable Toilet;1247;124704;Bagong Silang;Finished;2 ;units
+571;IFRC;WASH;Sanitation;Portable Toilet;1247;124704;Ilomavis;Finished;2 ;units
+572;IFRC;WASH;Sanitation;Portable Toilet;1247;124704;Perez;Finished;2 ;units
+573;IFRC;WASH;Sanitation;Portable Toilet;1124;112407;Balnate;Finished;2 ;units
+574;IFRC;WASH;Sanitation;Portable Toilet;1124;112407;Upper Bala;Finished;4 ;units
+575;IFRC;WASH;Sanitation;Portable Toilet;1124;112407;Upper Bala;Finished;2 ;units
+576;IFRC;WASH;Sanitation;Portable Toilet;1124;112407;Upper Bala;Finished;2 ;units
+577;IFRC;WASH;Sanitation;Portable Toilet;1247;124707;;Finished;4 ;units
+578;IFRC;WASH;Sanitation;Portable Toilet;1247;124707;Malabuan;Finished;2 ;units
+579;IFRC;WASH;Sanitation;Portable Toilet;1247;124707;Poblacion;Finished;10 ;units
+580;IFRC;WASH;Sanitation;Portable Toilet;1247;124707;Old Bulatukan;Finished;2 ;units
+581;IFRC;WASH;Sanitation;Portable Toilet;1247;124707;Batasan;Finished;2 ;units
+582;IFRC;WASH;Sanitation;Portable Toilet;1247;124707;Malasila;Finished;2 ;units
+583;IFRC;WASH;Sanitation;Portable Toilet;1247;124707;Malasila;Finished;2 ;units
+584;IFRC;WASH;WASH;Potable Water;1124;112401;;Finished;12,000 ;liters
+585;IFRC;WASH;WASH;Potable Water;1124;112401;Poblacion 2;Finished;12,000 ;liters
+586;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;24,000 ;liters
+587;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12,000 ;liters
+588;IFRC;WASH;WASH;Potable Water;1124;112401;Poblacion 2;Finished;12,000 ;liters
+589;IFRC;WASH;WASH;Potable Water;1124;112401;Poblacion 2;Finished;12,000 ;liters
+590;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;18, 000;liters
+591;IFRC;WASH;WASH;Potable Water;1124;112401;Sitio Brigole;Finished;10, 000;liters
+592;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+593;IFRC;WASH;WASH;Potable Water;1124;112401;Poblacion 2;Finished;6, 000;liters
+594;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;24, 000;liters
+595;IFRC;WASH;WASH;Potable Water;1124;112401;Poblacion 2;Finished;1, 000;liters
+596;IFRC;WASH;WASH;Potable Water;1124;112401;Poblacion 2;Finished;12, 000;liters
+597;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+598;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+599;IFRC;WASH;WASH;Potable Water;1124;112401;Poblacion 2;Finished;6, 000;liters
+600;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+601;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+602;IFRC;WASH;WASH;Potable Water;1124;112401;Poblacion 2;Finished;6,000 ;liters
+603;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+604;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+605;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+606;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+607;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+608;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+609;IFRC;WASH;WASH;Potable Water;1124;112401;Linauan;Finished;12, 000;liters
+610;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;12,000 ;liters
+611;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;12,000 ;liters
+612;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;12,000 ;liters
+613;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;12,000 ;liters
+614;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;5,000 ;liters
+615;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;15,000 ;liters
+616;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;15,000 ;liters
+617;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;15,000 ;liters
+618;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;15,000 ;liters
+619;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;6,000 ;liters
+620;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;5,000 ;liters
+621;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;5,000 ;liters
+622;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;5,000 ;liters
+623;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;5,000 ;liters
+624;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;5,000 ;liters
+625;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;5,000 ;liters
+626;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayhay;Finished;5,000 ;liters
+627;IFRC;WASH;WASH;Potable Water;1124;112403;;Finished;5,000 ;liters
+628;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;2,500 ;liters
+629;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;2,500 ;liters
+630;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12,000 ;liters
+631;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12,000 ;liters
+632;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12,000 ;liters
+633;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12, 000;liters
+634;IFRC;WASH;WASH;Potable Water;1124;112403;Binaton;Finished;5, 000;liters
+635;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12, 000;liters
+636;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;5, 000;liters
+637;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12, 000;liters
+638;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;5, 000;liters
+639;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;4, 000;liters
+640;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;6, 000;liters
+641;IFRC;WASH;WASH;Potable Water;1124;112403;Sinawalayan;Finished;4, 000;liters
+642;IFRC;WASH;WASH;Potable Water;1124;112403;Sinawalayan;Finished;12, 000;liters
+643;IFRC;WASH;WASH;Potable Water;1124;112403;Balabag;Finished;5, 000;liters
+644;IFRC;WASH;WASH;Potable Water;1124;112403;Divine Mercy Evacuation Center;Finished;12,000 ;liters
+645;IFRC;WASH;WASH;Potable Water;1124;112403;Kapoc;Finished;4, 000;liters
+646;IFRC;WASH;WASH;Potable Water;1124;112403;Sinawilan;Finished;8, 000;liters
+647;IFRC;WASH;WASH;Potable Water;1124;112403;DAR;Finished;4, 000;liters
+648;IFRC;WASH;WASH;Potable Water;1124;112403;Balante;Finished;1, 000;liters
+649;IFRC;WASH;WASH;Potable Water;1124;112403;Sinawilan;Finished;1, 000;liters
+650;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;11, 000;liters
+651;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;10, 000;liters
+652;IFRC;WASH;WASH;Potable Water;1124;112403;Sinawilan;Finished;8, 000;liters
+653;IFRC;WASH;WASH;Potable Water;1124;112403;DAR;Finished;2,000 ;liters
+654;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;750 ;liters
+655;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;8,000 ;liters
+656;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12, 000;liters
+657;IFRC;WASH;WASH;Potable Water;1124;112403;Divine Mercy Evacuation Center;Finished;11, 000;liters
+658;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;750 ;liters
+659;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12, 000;liters
+660;IFRC;WASH;WASH;Potable Water;1124;112403;Divine Mercy;Finished;11, 000;liters
+661;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;750 ;liters
+662;IFRC;WASH;WASH;Potable Water;1124;112403;Divine Mercy;Finished;5, 000;liters
+663;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;8, 000;liters
+664;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;750 ;liters
+665;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;8, 000;liters
+666;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;6, 000;liters
+667;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;750 ;liters
+668;IFRC;WASH;WASH;Potable Water;1124;112403;Divine Mercy;Finished;12, 000;liters
+669;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12, 000;liters
+670;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;6, 000;liters
+671;IFRC;WASH;WASH;Potable Water;1124;112403;Divine Mercy;Finished;4, 000;liters
+672;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;4, 000;liters
+673;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;4, 000;liters
+674;IFRC;WASH;WASH;Potable Water;1124;112403;Mahayahay;Finished;12, 000;liters
+675;IFRC;WASH;WASH;Potable Water;1124;112403;Divine Mercy;Finished;12, 000;liters
+676;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;4, 000;liters
+677;IFRC;WASH;WASH;Potable Water;1124;112403;Poblacion;Finished;4, 000;liters
+678;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;1, 000;liters
+679;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;6,000 ;liters
+680;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;2, 000;liters
+681;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;3, 000;liters
+682;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;1, 000;liters
+683;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;8, 000;liters
+684;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;3, 000;liters
+685;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;2, 000;liters
+686;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;3, 000;liters
+687;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;3, 000;liters
+688;IFRC;WASH;WASH;Potable Water;1124;112404;Guihing;Finished;2, 000;liters
+689;IFRC;WASH;WASH;Potable Water;1124;112404;HAGONOY;Finished;2, 000;liters
+690;IFRC;WASH;WASH;Potable Water;1247;124704;Ginatilan;Finished;10,000 ;liters
+691;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+692;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+693;IFRC;WASH;WASH;Potable Water;1247;124704;Ginatilan;Finished;10,000 ;liters
+694;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;7,000 ;liters
+695;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+696;IFRC;WASH;WASH;Potable Water;1247;124704;Ginatilan;Finished;10,000 ;liters
+697;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+698;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+699;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+700;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+701;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000;liters
+702;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+703;IFRC;WASH;WASH;Potable Water;1247;124704;Singaw;Finished;12,000 ;liters
+704;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000;liters
+705;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+706;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;15,000;liters
+707;IFRC;WASH;WASH;Potable Water;1247;124704;Matingao;Finished;2,000;liters
+708;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;2,000;liters
+709;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;22,000;liters
+710;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000;liters
+711;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+712;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;7,000 ;liters
+713;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
+714;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+715;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+716;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+717;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
+718;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+719;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
+720;IFRC;WASH;WASH;Potable Water;1247;124704;Apo Sandawa I;Finished;10,000 ;liters
+721;IFRC;WASH;WASH;Potable Water;1247;124704;Apo Sandawa III;Finished;10,000 ;liters
+722;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+723;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+724;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+725;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+726;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+727;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+728;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+729;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+730;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+731;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+732;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+733;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+734;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;24,000 ;liters
+735;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+736;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+737;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+738;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;24,000 ;liters
+739;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+740;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+741;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;2,000 ;liters
+742;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;2,000 ;liters
+743;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+744;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+745;IFRC;WASH;WASH;Potable Water;1247;124704;Malindog;Finished;12,000 ;liters
+746;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;16,000 ;liters
+747;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+748;IFRC;WASH;WASH;Potable Water;1247;124704;Apo Sandawa ;Finished;8,000 ;liters
+749;IFRC;WASH;WASH;Potable Water;1247;124704;Apo Sandawa ;Finished;12,000 ;liters
+750;IFRC;WASH;WASH;Potable Water;1247;124704;;Finished;2,000 ;liters
+751;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+752;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;24,000 ;liters
+753;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+754;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+755;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+756;IFRC;WASH;WASH;Potable Water;1247;124704;;Finished;12,000 ;liters
+757;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;2,000 ;liters
+758;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+759;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+760;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+761;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;8,000 ;liters
+762;IFRC;WASH;WASH;Potable Water;1247;124704;Balindog;Finished;5,000 ;liters
+763;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+764;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+765;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+766;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+767;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+768;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;24,000 ;liters
+769;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
+770;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
+771;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
+772;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;4,000 ;liters
+773;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;20,000 ;liters
+774;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+775;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;30,000 ;liters
+776;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+777;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+778;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;25,000 ;liters
+779;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+780;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;25,000 ;liters
+781;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+782;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+783;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;11,000 ;liters
+784;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;1,000 ;liters
+785;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+786;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;25,000 ;liters
+787;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;1,000 ;liters
+788;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;8,000 ;liters
+789;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;25,000 ;liters
+790;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+791;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+792;IFRC;WASH;WASH;Potable Water;1247;124704;Kalasuyan;Finished;24,000 ;liters
+793;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+794;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;5,128 ;liters
+795;IFRC;WASH;WASH;Potable Water;1247;124704;Kalasuyan;Finished;10,000 ;liters
+796;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+797;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;3,400 ;liters
+798;IFRC;WASH;WASH;Potable Water;1247;124704;Kalasuyan;Finished;10,000 ;liters
+799;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+800;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+801;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+802;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;9,590 ;liters
+803;IFRC;WASH;WASH;Potable Water;1247;124704;New Bohol;Finished;7,650 ;liters
+804;IFRC;WASH;WASH;Potable Water;1247;124704;New Bohol;Finished;750 ;liters
+805;IFRC;WASH;WASH;Potable Water;1247;124704;Kalasuyan;Finished;22,065 ;liters
+806;IFRC;WASH;WASH;Potable Water;1247;124704;Kalasuyan;Finished;5,175 ;liters
+807;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+808;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+809;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;3,890 ;liters
+810;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+811;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+812;IFRC;WASH;WASH;Potable Water;1247;124704;;Finished;12,000 ;liters
+813;IFRC;WASH;WASH;Potable Water;1247;124704;Batasan;Finished;12,000 ;liters
+814;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+815;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+816;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+817;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+818;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+819;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+820;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+821;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;22,000 ;liters
+822;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+823;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+824;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;10,000 ;liters
+825;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;22,000 ;liters
+826;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+827;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;34,000 ;liters
+828;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+829;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;3,000 ;liters
+830;IFRC;WASH;WASH;Potable Water;1247;124704;Concepcion;Finished;12,000 ;liters
+831;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;22,000 ;liters
+832;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+833;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+834;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+835;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+836;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+837;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+838;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+839;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+840;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+841;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+842;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+843;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+844;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+845;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+846;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;3,000 ;liters
+847;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+848;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+849;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+850;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+851;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+852;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+853;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;10,000 ;liters
+854;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+855;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+856;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;6,000 ;liters
+857;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+858;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+859;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+860;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+861;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+862;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+863;IFRC;WASH;WASH;Potable Water;1247;124704;Ilomavis;Finished;12,000 ;liters
+864;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;2,000 ;liters
+865;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;12,000 ;liters
+866;IFRC;WASH;WASH;Potable Water;1247;124704;Poblacion;Finished;4,000 ;liters
+867;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;208 ;liters
+868;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
+869;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;2,000 ;liters
+870;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
+871;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;24,000 ;liters
+872;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+873;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
+874;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;10,000 ;liters
+875;IFRC;WASH;WASH;Potable Water;1124;112407;Lowerr Bala;Finished;10,000 ;liters
+876;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;24,000 ;liters
+877;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;22,000 ;liters
+878;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
+879;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala ;Finished;12,000 ;liters
+880;IFRC;WASH;WASH;Potable Water;1124;112407;Tagaytay;Finished;7,000 ;liters
+881;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+882;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;12,000 ;liters
+883;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;24,000 ;liters
+884;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+885;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+886;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+887;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;6,000 ;liters
+888;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+889;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+890;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+891;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
+892;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+893;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+894;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+895;IFRC;WASH;WASH;Potable Water;1124;112407;New Opon;Finished;6,720 ;liters
+896;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
+897;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
+898;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+899;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+900;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;10,000 ;liters
+901;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
+902;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+903;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+904;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
+905;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;5,000 ;liters
+906;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+907;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+908;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+909;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+910;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
+911;IFRC;WASH;WASH;Potable Water;1124;112407;;Finished;10,000 ;liters
+912;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+913;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+914;IFRC;WASH;WASH;Potable Water;1124;112407;;Finished;10,000 ;liters
+915;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;15,000 ;liters
+916;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;17,000 ;liters
+917;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
+918;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+919;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;10,000 ;liters
+920;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+921;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+922;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+923;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+924;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+925;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;7,000 ;liters
+926;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
+927;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+928;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
+929;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+930;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;7,000 ;liters
+931;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
+932;IFRC;WASH;WASH;Potable Water;1247;112407;Upper Bala;Finished;12,000 ;liters
+933;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+934;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;12,000 ;liters
+935;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;12,000 ;liters
+936;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;12,000 ;liters
+937;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;12,000 ;liters
+938;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;12,000 ;liters
+939;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+940;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;2,000 ;liters
+941;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;10,000 ;liters
+942;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;5,000 ;liters
+943;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12,000 ;liters
+944;IFRC;WASH;WASH;Potable Water;1124;112407;Upper Bala;Finished;6,000 ;liters
+945;IFRC;WASH;WASH;Potable Water;1124;112407;Manggahan;Finished;6, 000;liters
+946;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12, 000;liters
+947;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;12, 000;liters
+948;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;5, 000;liters
+949;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;5, 000;liters
+950;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;4, 000;liters
+951;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;6, 000;liters
+952;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;8, 000;liters
+953;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;3, 000;liters
+954;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;4, 900;liters
+955;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;12, 000;liters
+956;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;5, 000;liters
+957;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;10, 000;liters
+958;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12, 000;liters
+959;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12, 000;liters
+960;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;12, 000;liters
+961;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 500;liters
+962;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;5, 000;liters
+963;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;2, 000;liters
+964;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;3, 000;liters
+965;IFRC;WASH;WASH;Potable Water;1124;112407;Latian;Finished;4, 000;liters
+966;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;12, 000;liters
+967;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+968;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;2,000 ;liters
+969;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;5, 000;liters
+970;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;3, 000;liters
+971;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+972;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;3, 700;liters
+973;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;3, 700;liters
+974;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;3, 700;liters
+975;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;3, 700;liters
+976;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;5, 000;liters
+977;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;5, 000;liters
+978;IFRC;WASH;WASH;Potable Water;1124;112407;Poblacion;Finished;2, 000;liters
+979;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;4,000 ;liters
+980;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;5, 000;liters
+981;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12, 000;liters
+982;IFRC;WASH;WASH;Potable Water;1124;112407;Malungon;Finished;4, 000;liters
+983;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;4, 000;liters
+984;IFRC;WASH;WASH;Potable Water;1124;112407;Poblacion;Finished;1, 000;liters
+985;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;5, 000;liters
+986;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;4, 000;liters
+987;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;3, 000;liters
+988;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;1, 000;liters
+989;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;12, 000;liters
+990;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;4,000 ;liters
+991;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;4, 000;liters
+992;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;12, 000;liters
+993;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;11, 000;liters
+994;IFRC;WASH;WASH;Potable Water;1124;112407;Balnate;Finished;2, 000;liters
+995;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;2, 000;liters
+996;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;5, 000;liters
+997;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;5, 000;liters
+998;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;10, 000;liters
+999;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;5, 000;liters
+1000;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12, 000;liters
+1001;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;12,000 ;liters
+1002;IFRC;WASH;WASH;Potable Water;1124;112407;Northern Paligue;Finished;1,000 ;liters
+1003;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;2,000 ;liters
+1004;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;5,000 ;liters
+1005;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;3,000 ;liters
+1006;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;5, 000;liters
+1007;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;7, 000;liters
+1008;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;16, 000;liters
+1009;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;4, 000;liters
+1010;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;5, 000;liters
+1011;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;7, 000;liters
+1012;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;4, 000;liters
+1013;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;4, 000;liters
+1014;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;4, 000;liters
+1015;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;12, 000;liters
+1016;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;6, 000;liters
+1017;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;2, 000;liters
+1018;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;10, 000;liters
+1019;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;12, 000;liters
+1020;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;12, 000;liters
+1021;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;2, 000;liters
+1022;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;2, 000;liters
+1023;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;8, 000;liters
+1024;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;4, 000;liters
+1025;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;4, 000;liters
+1026;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;4, 000;liters
+1027;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+1028;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;4, 000;liters
+1029;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;4, 000;liters
+1030;IFRC;WASH;WASH;Potable Water;1124;112407;Poblacion;Finished;4, 000;liters
+1031;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+1032;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;5, 000;liters
+1033;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;7, 000;liters
+1034;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12, 000;liters
+1035;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;6, 000;liters
+1036;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;6, 000;liters
+1037;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;500 ;liters
+1038;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;500 ;liters
+1039;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;4,000 ;liters
+1040;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;4,000 ;liters
+1041;IFRC;WASH;WASH;Potable Water;1124;112407;Poblacion;Finished;1,000 ;liters
+1042;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;10,000 ;liters
+1043;IFRC;WASH;WASH;Potable Water;1124;112407;Production Site;Finished;1,000 ;liters
+1044;IFRC;WASH;WASH;Potable Water;1124;112407;Poblacion;Finished;1, 000;liters
+1045;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+1046;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;12, 000;liters
+1047;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;12, 000;liters
+1048;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12, 000;liters
+1049;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;2, 000;liters
+1050;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;6, 000;liters
+1051;IFRC;WASH;WASH;Potable Water;1124;112407;Poblacion;Finished;1, 000;liters
+1052;IFRC;WASH;WASH;Potable Water;1124;112407;Poblacion;Finished;1, 000;liters
+1053;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;1, 000;liters
+1054;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;1, 000;liters
+1055;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;9, 000;liters
+1056;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;4, 000;liters
+1057;IFRC;WASH;WASH;Potable Water;1124;112407;Poblacion;Finished;1, 000;liters
+1058;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;4, 000;liters
+1059;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;4, 000;liters
+1060;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+1061;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;2, 000;liters
+1062;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;10, 000;liters
+1063;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;2, 000;liters
+1064;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;5,000 ;liters
+1065;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;10, 000;liters
+1066;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+1067;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;4, 000;liters
+1068;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;3, 000;liters
+1069;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;3, 000;liters
+1070;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;12, 000;liters
+1071;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+1072;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;2, 000;liters
+1073;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;2, 000;liters
+1074;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+1075;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;1, 000;liters
+1076;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;12, 000;liters
+1077;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;7, 000;liters
+1078;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;5, 000;liters
+1079;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;10, 000;liters
+1080;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;4, 000;liters
+1081;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;4, 000;liters
+1082;IFRC;WASH;WASH;Potable Water;1124;112407;Balante;Finished;1, 000;liters
+1083;IFRC;WASH;WASH;Potable Water;1124;112407;Tacul;Finished;4, 000;liters
+1084;IFRC;WASH;WASH;Potable Water;1124;112407;Malawanit;Finished;4, 000;liters
+1085;IFRC;WASH;WASH;Potable Water;1124;112407;Bacungan;Finished;8, 000;liters
+1086;IFRC;WASH;WASH;Potable Water;1124;112407;San Miguel;Finished;4, 000;liters
+1087;IFRC;WASH;WASH;Potable Water;1124;112407;Bala;Finished;4, 000;liters
+1088;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;12,000 ;liters
+1089;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1090;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1091;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1092;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1093;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1094;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1095;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1096;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1097;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1098;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1099;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1100;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;6,000 ;liters
+1101;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;6,000 ;liters
+1102;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1103;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1104;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1105;IFRC;WASH;WASH;Potable Water;1247;124707;Sto. Nino;Finished;12,000 ;liters
+1106;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1107;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;8,000 ;liters
+1108;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;4,000 ;liters
+1109;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;12,000 ;liters
+1110;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;6,000 ;liters
+1111;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;6,000 ;liters
+1112;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1113;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;6,000 ;liters
+1114;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;6,000 ;liters
+1115;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;6,000 ;liters
+1116;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;4,000 ;liters
+1117;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;8,000 ;liters
+1118;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1119;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1120;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;6,000 ;liters
+1121;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;6,000 ;liters
+1122;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;6,000 ;liters
+1123;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;6,000 ;liters
+1124;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1125;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1126;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1127;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1128;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;7,000 ;liters
+1129;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;8,000 ;liters
+1130;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1131;IFRC;WASH;WASH;Potable Water;1247;124707;Batasan;Finished;1,000 ;liters
+1132;IFRC;WASH;WASH;Potable Water;1247;124707;Luwayon;Finished;6,000 ;liters
+1133;IFRC;WASH;WASH;Potable Water;1247;124707;Malasila;Finished;10,000 ;liters
+1134;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;10,000 ;liters
+1135;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1136;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;10,000 ;liters
+1137;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1138;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;10,000 ;liters
+1139;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1140;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;10,000 ;liters
+1141;IFRC;WASH;WASH;Potable Water;1247;124707;Batasan;Finished;12,000 ;liters
+1142;IFRC;WASH;WASH;Potable Water;1247;124707;Batasan;Finished;12,000 ;liters
+1143;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1144;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1145;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;10,000 ;liters
+1146;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;10,000 ;liters
+1147;IFRC;WASH;WASH;Potable Water;1247;124707;Batasan;Finished;10,000 ;liters
+1148;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1149;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1150;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;10,000 ;liters
+1151;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1152;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;10,000 ;liters
+1153;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1154;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;10,000 ;liters
+1155;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1156;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1157;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1158;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1159;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1160;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1161;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1162;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1163;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1164;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1165;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1166;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1167;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;12,000 ;liters
+1168;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;7,000 ;liters
+1169;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;5,000 ;liters
+1170;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1171;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1172;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;7,000 ;liters
+1173;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;5,000 ;liters
+1174;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1175;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1176;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;10,000 ;liters
+1177;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;2,000 ;liters
+1178;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1179;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1180;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;10,000 ;liters
+1181;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;2,000 ;liters
+1182;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1183;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1184;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;12,000 ;liters
+1185;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1186;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1187;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;12,000 ;liters
+1188;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1189;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1190;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;12,000 ;liters
+1191;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;12,000 ;liters
+1192;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1193;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1194;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1195;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;12,000 ;liters
+1196;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1197;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;12,000 ;liters
+1198;IFRC;WASH;WASH;Potable Water;1247;124707;CES;Finished;4,000 ;liters
+1199;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1200;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;12,000 ;liters
+1201;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1202;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;12,000 ;liters
+1203;IFRC;WASH;WASH;Potable Water;1247;124707;CES;Finished;2,000 ;liters
+1204;IFRC;WASH;WASH;Potable Water;1247;124707;Malabuan;Finished;12,000 ;liters
+1205;IFRC;WASH;WASH;Potable Water;1247;124707;Bulakanon;Finished;12,000 ;liters
+1206;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;12,000 ;liters
+1207;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;12,000 ;liters
+1208;IFRC;WASH;WASH;Potable Water;1247;124707;Poblacion;Finished;2,000 ;liters
+1209;IFRC;WASH;WASH;Potable Water;1247;124707;Concepcion;Finished;6,000 ;liters
+1210;IFRC;WASH;WASH;Potable Water;1124;112408;Malalag;Finished;1, 000;liters
+1211;IFRC;WASH;WASH;Potable Water;1124;112410;Brigole;Finished;12,000 ;liters
+1212;IFRC;WASH;WASH;Potable Water;1124;112410;Brigole;Finished;12, 000;liters
+1213;IFRC;WASH;WASH;Potable Water;1124;112410;Brigole;Finished;5, 000;liters
+1214;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;1, 000;liters
+1215;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;1, 000;liters
+1216;IFRC;WASH;WASH;Potable Water;1124;112410;Poblacion;Finished;3, 000;liters
+1217;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;1, 000;liters
+1218;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;1, 000;liters
+1219;IFRC;WASH;WASH;Potable Water;1124;112410;Poblacion;Finished;5, 000;liters
+1220;IFRC;WASH;WASH;Potable Water;1124;112410;Bacungan;Finished;8, 000;liters
+1221;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;2, 000;liters
+1222;IFRC;WASH;WASH;Potable Water;1124;112410;Tamlangon;Finished;3, 000;liters
+1223;IFRC;WASH;WASH;Potable Water;1124;112410;Poblacion;Finished;3,000 ;liters
+1224;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;6,000 ;liters
+1225;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;2, 000;liters
+1226;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;4, 000;liters
+1227;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;4, 000;liters
+1228;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;4, 000;liters
+1229;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;4, 000;liters
+1230;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;4, 000;liters
+1231;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;4, 000;liters
+1232;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;3, 000;liters
+1233;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;3, 000;liters
+1234;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;2, 000;liters
+1235;IFRC;WASH;WASH;Potable Water;1124;112410;Kapoc;Finished;2, 000;liters
+1236;IFRC;WASH;WASH;Potable Water;1124;112410;Towak;Finished;6, 000;liters
+1237;IFRC;WASH;WASH;Potable Water;1124;112410;Asinan;Finished;6, 000;liters
+1238;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;12, 000;liters
+1239;IFRC;WASH;WASH;Potable Water;1124;112411;San Isidro;Finished;4, 000;liters
+1240;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;5, 000;liters
+1241;IFRC;WASH;WASH;Potable Water;1124;112411;Bayanihan;Finished;2, 000;liters
+1242;IFRC;WASH;WASH;Potable Water;1124;112411;Sunrise Village;Finished;5, 000;liters
+1243;IFRC;WASH;WASH;Potable Water;1124;112411;Poblacion;Finished;1, 000;liters
+1244;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;6, 000;liters
+1245;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;5, 000;liters
+1246;IFRC;WASH;WASH;Potable Water;1124;112411;San Isidro;Finished;10, 000;liters
+1247;IFRC;WASH;WASH;Potable Water;1124;112411;San Isidro;Finished;12, 000;liters
+1248;IFRC;WASH;WASH;Potable Water;1124;112411;San Isidro;Finished;8, 000;liters
+1249;IFRC;WASH;WASH;Potable Water;1124;112411;Sunrise Village;Finished;2, 000;liters
+1250;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;9, 000;liters
+1251;IFRC;WASH;WASH;Potable Water;1124;112411;Paligue;Finished;1, 000;liters
+1252;IFRC;WASH;WASH;Potable Water;1124;112411;Punta Piape;Finished;11,000 ;liters
+1253;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;12, 000;liters
+1254;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;6, 000;liters
+1255;IFRC;WASH;WASH;Potable Water;1124;112411;San Isidro;Finished;6, 000;liters
+1256;IFRC;WASH;WASH;Potable Water;1124;112411;Northern Paligue;Finished;1, 000;liters
+1257;IFRC;WASH;WASH;Potable Water;1124;112411;Sunrise Village;Finished;2, 000;liters
+1258;IFRC;WASH;WASH;Potable Water;1124;112411;San Isidro;Finished;5, 000;liters
+1259;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;4, 000;liters
+1260;IFRC;WASH;WASH;Potable Water;1124;112411;Punta Piape;Finished;12, 000;liters
+1261;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;5,000 ;liters
+1262;IFRC;WASH;WASH;Potable Water;1124;112411;Sunrise Village;Finished;4,000 ;liters
+1263;IFRC;WASH;WASH;Potable Water;1124;112411;Paligue;Finished;1,000 ;liters
+1264;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;6, 000;liters
+1265;IFRC;WASH;WASH;Potable Water;1124;112411;Piape;Finished;6, 000;liters
+1266;IFRC;WASH;WASH;Potable Water;1247;;Concepcion;Finished;10,000 ;liters
+1267;IFRC;WASH;WASH;Potable Water;1247;;Production Site;Finished;10,000 ;liters
+1268;IFRC;WASH;WASH;Potable Water;1247;;Santos Land;Finished;8,000 ;liters
+1269;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112401;Kinuskusan;Finished;30;individuals
+1270;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112401;Altavista;Finished;26;individuals
+1271;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112403;Dawis;Finished;15;individuals
+1272;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112403;Aplaya;Finished;4;individuals
+1273;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Poblacion;Finished;392;individuals
+1274;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Ginatilan;Finished;49;individuals
+1275;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Poblacion;Finished;19;individuals
+1276;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Perez;Finished;68;individuals
+1277;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Perez;Finished;76;individuals
+1278;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Meohao;Finished;22;individuals
+1279;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124704;Ilomavis;Finished;46;individuals
+1280;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112407;;Finished;28;individuals
+1281;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112407;;Finished;7;individuals
+1282;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112407;Tacul;Finished;62;individuals
+1283;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112407;Balnate;Finished;24;individuals
+1284;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112407;Tacul;Finished;89;individuals
+1285;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112407;;Finished;21;individuals
+1286;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Poblacion;Finished;22;individuals
+1287;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Concepcion;Finished;232;individuals
+1288;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Malabuan;Finished;59;individuals
+1289;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Bulakanon;Finished;28;individuals
+1290;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Indang;Finished;28;individuals
+1291;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Malasila;Finished;160;individuals
+1292;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Malasila;Finished;44;individuals
+1293;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Sto. Nino;Finished;80;individuals
+1294;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Saguing;Finished;90;individuals
+1295;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;;Finished;32;individuals
+1296;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Sto. Nino;Finished;50;individuals
+1297;IFRC;Volunteer Management;Volunteer;Recruitment;1247;124707;Poblacion;Finished;50;individuals
+1298;IFRC;Volunteer Management;Volunteer;Recruitment;1124;112410;Kapoc;Finished;9;individuals
+1299;IFRC;Volunteer Management;Volunteer;Recruitment;1124;;;Finished;24;individuals
+1300;IFRC;Volunteer Management;Volunteer;Recruitment;1124;;;Finished;54;individuals
+1301;IFRC;SRR;Rescue;Rescued/Assisted;1263;126306;;Finished;1;individual
+1302;IFRC;SRR;Rescue;Rescued/Assisted;1263;126306;;Finished;1;individual
+1303;IFRC;SRR;Rescue;Rescued/Assisted;1124;112407;Asinan;Finished;1;individual
+1304;IFRC;SRR;Rescue;Rescued/Assisted;1124;;;Finished;1;individual
+1305;IFRC;Welfare;RFL;RFL;1247;124704;Ilomavis;Finished;1;individual
+1306;IFRC;Welfare;RFL;RFL;1247;124707;Garsika;Finished;1;individual
+1307;IFRC;WASH;Sanitation;Shower Room;1124;112407;Balnate;Finished;;individuals
+1308;IFRC;WASH;Sanitation;Shower Room;1124;112407;Balnate;Finished;;individuals
+1309;IFRC;WASH;Sanitation;Shower Room;1124;112407;Upper Bala;Finished;;individuals
+1310;IFRC;WASH;Sanitation;Shower Room;1124;112407;Darapuay;Finished;;individuals
+1311;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Dolo;Finished;107;families
+1312;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Kinuskusan;Finished;194;families
+1313;IFRC;Relief;Non Food Item;SK:Blankets;1124;112401;Tubod;Finished;38;families
+1314;IFRC;Relief;Non Food Item;SK:Blankets;1124;112403;Balabag;Finished;120;families
+1315;IFRC;Relief;Non Food Item;SK:Blankets;1124;112404;Malabang;Finished;158 ;families
+1316;IFRC;Relief;Non Food Item;SK:Blankets;1124;112406;Balasiao;Finished;240;families
+1317;IFRC;Relief;Non Food Item;SK:Blankets;1124;112406;Molopolo;Finished;170;families
+1318;IFRC;Relief;Non Food Item;SK:Blankets;1247;124704;Perez;Finished;71;families
+1319;Local Donation;relief;Non Food Item;SK:Blankets;1247;124704;Perez;Finished;78;families
+1320;IFRC;relief;Non Food Item;SK:Blankets;1247;124704;Indangan;Finished;315;families
+1321;Local Donation: SBMA;Relief;Non Food Item;SK:Blankets;1124;112407;New Opon;Finished;323;families
+1322;Private Donor;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;49;families
+1323;Private Donor;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;18;families
+1324;Private Donor;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;23;families
+1325;Private Donor;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;14;families
+1326;IFRC;Relief;Non Food Item;SK:Blankets;1124;112407;Tacul;Finished;160;families
+1327;IFRC;Relief;Non Food Item;SK:Blankets;1124;112407;Malungo;Finished;179;families
+1328;IFRC;Relief;Non Food Item;SK:Blankets;1247;124707;Malasila;Finished;393;families
+1329;IFRC;Relief;Non Food Item;SK:Blankets;1247;124707;Old Bulatukan;Finished;294;families
+1330;IFRC;Relief;Non Food Item;SK:Blankets;1247;124707;Malasila;Finished;90;families
+1331;IFRC;Relief;Non Food Item;SK:Blankets;1247;124707;;Finished;66;families
+1332;IFRC;relief;Non Food Item;SK:Blankets;1247;124707;Old Bulatukan;Finished;169;families
+1333;Private Donor: A.Locsin;Relief;Non Food Item;SK:Blankets;1124;112410;Poblacion;Finished;129;families
+1334;IFRC;Relief;Non Food Item;SK:Blankets;1124;112410;Kapoc;Finished;120;families
+1335;IFRC;Relief;Non Food Item;SK:Blankets;1124;112410;Kauswagan;Finished;261;families
+1336;IFRC;relief;Non Food Item;SK:Blankets;1124;112410;Lower Marber;Finished;113;families
+1337;IFRC;relief;Non Food Item;SK:Blankets;1124;112410;Kapoc;Finished;72;families
+1338;IFRC;relief;Non Food Item;SK:Blankets;1124;112410;Kapoc;Finished;100;families
+1339;IFRC;relief;Non Food Item;SK:Blankets;1124;112410;Kapoc;Finished;73;families
+1340;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Dolo;Finished;107;families
+1341;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Kinuskusan;Finished;194;families
+1342;IFRC;Relief;Non Food Item;SK:Mats;1124;112401;Tubod;Finished;38;families
+1343;IFRC;Relief;Non Food Item;SK:Mats;1124;112403;Balabag;Finished;120;families
+1344;IFRC;Relief;Non Food Item;SK:Mats;1124;112404;Malabang;Finished;158 ;families
+1345;IFRC;Relief;Non Food Item;SK:Mats;1124;112406;Balasiao;Finished;240;families
+1346;IFRC;Relief;Non Food Item;SK:Mats;1124;112406;Molopolo;Finished;170;families
+1347;IFRC;Relief;Non Food Item;SK:Mats;1247;124704;Perez;Finished;71;families
+1348;Local Donation;relief;Non Food Item;SK:Mats;1247;124704;Perez;Finished;78;families
+1349;IFRC;relief;Non Food Item;SK:Mats;1247;124704;Indangan;Finished;315;families
+1350;Local Donation: SBMA;Relief;Non Food Item;SK:Mats;1124;112407;New Opon;Finished;323;families
+1351;Private Donor;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;49;families
+1352;Private Donor;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;18;families
+1353;Private Donor;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;23;families
+1354;Private Donor;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;14;families
+1355;IFRC;Relief;Non Food Item;SK:Mats;1124;112407;Tacul;Finished;160;families
+1356;IFRC;Relief;Non Food Item;SK:Mats;1124;112407;Malungo;Finished;179;families
+1357;IFRC;Relief;Non Food Item;SK:Mats;1247;124707;Malasila;Finished;393;families
+1358;IFRC;Relief;Non Food Item;SK:Mats;1247;124707;Old Bulatukan;Finished;294;families
+1359;IFRC;Relief;Non Food Item;SK:Mats;1247;124707;Malasila;Finished;90;families
+1360;IFRC;Relief;Non Food Item;SK:Mats;1247;124707;;Finished;66;families
+1361;IFRC;relief;Non Food Item;SK:Mats;1247;124707;Old Bulatukan;Finished;169;families
+1362;Private Donor: A.Locsin;Relief;Non Food Item;SK:Mats;1124;112410;Poblacion;Finished;129;families
+1363;IFRC;Relief;Non Food Item;SK:Mats;1124;112410;Kapoc;Finished;120;families
+1364;IFRC;Relief;Non Food Item;SK:Mats;1124;112410;Kauswagan;Finished;261;families
+1365;IFRC;relief;Non Food Item;SK:Mats;1124;112410;Lower Marber;Finished;113;families
+1366;IFRC;relief;Non Food Item;SK:Mats;1124;112410;Kapoc;Finished;72;families
+1367;IFRC;relief;Non Food Item;SK:Mats;1124;112410;Kapoc;Finished;100;families
+1368;IFRC;relief;Non Food Item;SK:Mats;1124;112410;Kapoc;Finished;73;families
+1369;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Dolo;Finished;107;families
+1370;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Kinuskusan;Finished;194;families
+1371;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112401;Tubod;Finished;38;families
+1372;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112403;Balabag;Finished;120;families
+1373;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112404;Malabang;Finished;158 ;families
+1374;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112406;Balasiao;Finished;240;families
+1375;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112406;Molopolo;Finished;170;families
+1376;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124704;Perez;Finished;71;families
+1377;IFRC;relief;Non Food Item;SK:Mosquito Nets;1247;124704;Indangan;Finished;315;families
+1378;Local Donation: SBMA;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;New Opon;Finished;323;families
+1379;Private Donor;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;49;families
+1380;Private Donor;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;18;families
+1381;Private Donor;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;23;families
+1382;Private Donor;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;14;families
+1383;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Tacul;Finished;160;families
+1384;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112407;Malungo;Finished;179;families
+1385;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124707;Malasila;Finished;393;families
+1386;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124707;Old Bulatukan;Finished;294;families
+1387;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124707;Malasila;Finished;90;families
+1388;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1247;124707;;Finished;66;families
+1389;IFRC;relief;Non Food Item;SK:Mosquito Nets;1247;124707;Old Bulatukan;Finished;169;families
+1390;Private Donor: A.Locsin;Relief;Non Food Item;SK:Mosquito Nets;1124;112410;Poblacion;Finished;129;families
+1391;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112410;Kapoc;Finished;120;families
+1392;IFRC;Relief;Non Food Item;SK:Mosquito Nets;1124;112410;Kauswagan;Finished;261;families
+1393;IFRC;relief;Non Food Item;SK:Mosquito Nets;1124;112410;Lower Marber;Finished;113;families
+1394;IFRC;relief;Non Food Item;SK:Mosquito Nets;1124;112410;Kapoc;Finished;72;families
+1395;IFRC;relief;Non Food Item;SK:Mosquito Nets;1124;112410;Kapoc;Finished;100;families
+1396;IFRC;relief;Non Food Item;SK:Mosquito Nets;1124;112410;Kapoc;Finished;73;families
+1397;Local Donation;relief;Non Food Item;Stuffed Toys;1247;124704;Calaocan;Finished;106;individuals
+1398;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Dolo;Finished;107;families
+1399;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Kinuskusan;Finished;194;families
+1400;IFRC;Relief;Non Food Item;Tarpaulins;1124;112401;Tubod;Finished;38;families
+1401;IFRC;Relief;Non Food Item;Tarpaulins;1124;112403;Balabag;Finished;120;families
+1402;IFRC;Relief;Non Food Item;Tarpaulins;1247;124704;Perez;Finished;71;families
+1403;Local Donation;relief;Non Food Item;Tarpaulins;1247;124704;Perez;Finished;78;families
+1404;Local Donation: SBMA;Relief;Non Food Item;Tarpaulins;1124;112407;New Opon;Finished;323;families
+1405;Private Donor;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;49;families
+1406;Private Donor;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;18;families
+1407;Private Donor;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;23;families
+1408;Private Donor;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;14;families
+1409;IFRC;Relief;Non Food Item;Tarpaulins;1124;112407;Tacul;Finished;160;families
+1410;IFRC;Relief;Non Food Item;Tarpaulins;1124;112407;Malungo;Finished;179;families
+1411;IFRC;Relief;Non Food Item;Tarpaulins;1247;124707;Malasila;Finished;393;families
+1412;IFRC;Relief;Non Food Item;Tarpaulins;1247;124707;Old Bulatukan;Finished;294;families
+1413;IFRC;Relief;Non Food Item;Tarpaulins;1247;124707;Malasila;Finished;90;families
+1414;IFRC;relief;Non Food Item;Tarpaulins;1247;124707;Old Bulatukan;Finished;169;families
+1415;Private Donor: A.Locsin;Relief;Non Food Item;Tarpaulins;1124;112410;Poblacion;Finished;129;families
+1416;IFRC;Relief;Non Food Item;Tarpaulins;1124;112410;Kapoc;Finished;120;families
+1417;IFRC;Relief;Non Food Item;Tarpaulins;1124;112410;Agan;Finished;57;families
+1418;IFRC;Relief;Non Food Item;Tarpaulins;1124;112410;Kauswagan;Finished;261;families
+1419;IFRC;relief;Non Food Item;Tarpaulins;1124;112410;Lower Marber;Finished;113;families
+1420;IFRC;relief;Non Food Item;Tarpaulins;1124;112410;Kapoc;Finished;72;families
+1421;IFRC;relief;Non Food Item;Tarpaulins;1124;112410;Kapoc;Finished;100;families
+1422;IFRC;relief;Non Food Item;Tarpaulins;1124;112410;Kapoc;Finished;73;families
+1423;IFRC;Relief;Non Food Item;Tarpaulins;1124;112411;Padada;Finished;100;families
+1424;IFRC;Relief;Non Food Item;Tarpaulins;1124;112411;Butay;Finished;24;families
+1425;Private Donor;Relief;Non Food Item;Used Clothing;1247;124704;Balabag;Finished;220;families
+1426;IFRC;WASH;WASH;Water Bladder;1247;124704;Ilomavis;Finished;1;unit
+1427;IFRC;WASH;WASH;Water Bladder;1247;124704;Poblacion;Finished;1;unit
+1428;IFRC;WASH;WASH;Water Bladder;1124;112407;Balnate;Finished;1;unit
+1429;IFRC;WASH;WASH;Water Bladder;1124;112407;Upper Bala;Finished;2;units
+1430;IFRC;WASH;WASH;Water Bladder;1124;112407;San Miguel;Finished;1;unit
+1431;IFRC;WASH;WASH;Water Bladder;1124;112407;Balnate;Finished;1;unit
+1432;IFRC;WASH;WASH;Water Bladder;1124;112407;Upper Bala;Finished;1;unit
+1433;IFRC;WASH;WASH;Water Bladder;1124;112407;Upper Bala;Finished;1;unit
+1434;IFRC;WASH;WASH;Water Bladder;1124;112407;San Miguel;Finished;1;Unit
+1435;IFRC;WASH;WASH;Water Bladder;1124;112407;Bala;Finished;1;Unit
+1436;IFRC;WASH;WASH;Water Bladder;1247;124707;Malasila;Finished;1;unit
+1437;IFRC;WASH;WASH;Water Bladder;1247;124707;Concepcion;Finished;1;unit
+1438;IFRC;WASH;WASH;Water Bladder;1247;124707;Poblacion;Finished;1;unit
+1439;IFRC;WASH;WASH;Water Tanker;1124;112403;;Finished;3;units
+1440;IFRC;WASH;WASH;Water Tanker;1247;124704;;Finished;2;units
+1441;IFRC;Welfare;PSP;Welfare Desk;1124;112401;Darapuay;Finished;1;desk
+1442;IFRC;Welfare;PSP;Welfare Desk;1124;112401;Tubod ;Finished;1;desk
+1443;IFRC;Welfare;PSP;Welfare Desk;1124;112401;Anonang;Finished;1;desk
+1444;IFRC;Welfare;PSP;Welfare Desk;1124;112401;Upper Bala ;Finished;1;desk
+1445;IFRC;Welfare;PSP;Welfare Desk;1124;112403;;Finished;1;desk
+1446;IFRC;Welfare;PSP;Welfare Desk;1247;124704;Poblacion ;Finished;1;desk
+1447;IFRC;Welfare;PSP;Welfare Desk;1247;124704;Poblacion ;Finished;1;desk
+1448;IFRC;Welfare;PSP;Welfare Desk;1247;124704;Ginatilan;Finished;1;desk
+1449;IFRC;Welfare;PSP;Welfare Desk;1124;112407;Tacul;Finished;1;desk
+1450;IFRC;Welfare;PSP;Welfare Desk;1247;124707;Malasila;Finished;1;desk
+1451;IFRC;Welfare;PSP;Welfare Desk;1124;112410;Kauswagan;Finished;1;desk
+1452;IFRC;Welfare;PSP;Welfare Desk;1247;124714;Poblacion;Finished;1;desk
+1453;IFRC;Welfare;PSP;Welfare Desk;1124;;;Finished;1;desk
+1454;IFRC;Welfare;PSP;Welfare Desk;1263;;;Finished;1;desk
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
